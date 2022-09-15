@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Formulaire ODK-SINP',
+  tagline: 'Base documentaire',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/website/',
   onBrokenLinks: 'throw',
