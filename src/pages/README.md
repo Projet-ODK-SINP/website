@@ -1,3 +1,8 @@
+---
+title: Vitrine des formulaires ODK mis en œuvre dans les CEN
+description: L'utilisation de formualires ODK pour aider les métiers de la conservation de la nature
+hide_table_of_contents: true
+---
 # Vitrine des formulaires ODK mis en œuvre dans les Cen
 
 Cet espace est un endroit dédié à la présentation et au partage des formulaires mis en place pour collecter des données dans le réseau des CEN. Le but étant de ne pas repartir de 0 dans le développement d'un formulaire ou d'une application mobile pour mettre en œuvre un nouveau suivi ou une nouvelle collecte de données. Mais plutôt de favoriser l'utilisation d'ODK, développé pour cela et la réutilisation, l'adaptation de formulaires XlsForm existants.
