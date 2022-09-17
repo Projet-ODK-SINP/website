@@ -80,10 +80,8 @@ Il nous faut maintenant renseigner les données d’identification qui permettro
 
 → Veillez à renseigner l’adresse mail (_**!!! votre adresse professionnelle en minuscules !!!**_).
 
-![identite_utilisateur-576x1024](./fichiers/SicenODK/ecrans/2c6b6484f465edafa797c37ab51dbf229d89b6ae_2_281x500.png)<br>identite_utilisateur-576x1024576×1024 40.9 KB](./fichiers/SicenODK/ecrans/2c6b6484f465edafa797c37ab51dbf229d89b6ae_562x1000.png "identite_utilisateur-576x1024")
-
-![metadonnees_de_formualire-576x1024](./fichiers/SicenODK/ecrans/d48fad63dbd77895fb21af0fccdb519f096a4892_2_281x500.png)<br>metadonnees\_de\_formualire-576x1024576×1024 69.2 KB](./fichiers/SicenODK/ecrans/d48fad63dbd77895fb21af0fccdb519f096a4892_562x1000.png "metadonnees_de_formualire-576x1024")
-
+![identite_utilisateur-576x1024](./fichiers/SicenODK/ecrans/2c6b6484f465edafa797c37ab51dbf229d89b6ae_2_281x500.png)
+![metadonnees_de_formualire-576x1024](./fichiers/SicenODK/ecrans/d48fad63dbd77895fb21af0fccdb519f096a4892_2_281x500.png)
 ![Screenshot_2021-03-11-12-17-54-576x1024](./fichiers/SicenODK/ecrans/2d267abdce7d8312dbc6430a5fc2d361d9aca632_2_281x500.png)
 
 #### Cartes → Choisir Mapbox
@@ -185,8 +183,7 @@ D’abord les taxons de rangs supérieurs puis les espèces et sous espèces.
 
 On peut aussi utiliser un code espèce compose ds 3 premières lettres du Genre et des 3 premières de l’espèce et le cas échéant des 3 premières de la sous-espèce :  
 
-![bc2e8491ac46b81a4526453e20075d657f60b167](./fichiers/SicenODK/ecrans/bc2e8491ac46b81a4526453e20075d657f60b167_2_281x500.png)<br>bc2e8491ac46b81a4526453e20075d657f60b1671080×1920 105 KB](./fichiers/SicenODK/ecrans/bc2e8491ac46b81a4526453e20075d657f60b167_562x1000.png "bc2e8491ac46b81a4526453e20075d657f60b167")
-
+![bc2e8491ac46b81a4526453e20075d657f60b167](./fichiers/SicenODK/ecrans/bc2e8491ac46b81a4526453e20075d657f60b167_2_281x500.png)
 #### Renseignement de l’effectif observé
 
 Pour clarifier la collecte de données d’absence, nous avons ajouté une question explicite :  
