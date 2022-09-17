@@ -15,7 +15,7 @@
 * [La présentation du formulaire sur le forum ODK (plus technique)](https://forum.getodk.org/t/odk-to-collect-species-and-habitats-localities-as-pressure-and-threats-to-ecosystems/26332)
 * [Sa présentation sur Geotribu et le lien ODK/PostGIS](https://static.geotribu.fr/articles/2021/2021-06-08_odk_postgis_1/)
 ## OccTaxODK : formulaire conforme au Standard Occurence de taxons du SINP
-* [OccTaxODK / Occurence de Taxons](occurence_de_taxon.md) (travail en cours)
+* [OccTaxODK / Occurences de Taxons](occurences_de_taxons.md) (travail en cours)
 
 ## Enquête Crabe Bleu
 -> formulaire développé par Hugo Norel au CEN Occitanie
