@@ -2,46 +2,18 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Accueil
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Vitrine des formulaires ODK mis en œuvre dans les Cen
 
-## Getting Started
+Cet espace est un endroit dédié à la présentation et au partage des formulaires mis en place pour collecter des données dans le réseau des CEN. Le but étant de ne pas repartir de 0 dans le développement d'un formulaire ou d'une application mobile pour mettre en œuvre un nouveau suivi ou une nouvelle collecte de données. Mais plutôt de favoriser l'utilisation d'ODK, développé pour cela et la réutilisation, l'adaptation de formulaires XlsForm existants.
 
-Get started by **creating a new site**.
+Le standard xlsform s'y prête bien. il permet en effet de copier/coller des blocs de questions d'un formulaire à un autre. Cela sera facilité en essayant de standardiser l'ordre des colonnes du fichier xlsform. Un [modèle](template_xlsform.xlsx) est proposé à cet effet, nous nous efforcerons de le respecter. A défaut il est bien sûr possible de réordonner les colonnes avant de copier,coller le bloc de questions.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Ces formulaires, les ressources qu'ils utilisent (référentiels, images...) ainsi que les protocoles auxquels ils sont associés seront téléchargeables.
 
-### What you'll need
+## les suivis scientifiques dans les CENs
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## ODK et le xlsform
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## [Les formulaires mis en oeuvre](formulaires.md)
