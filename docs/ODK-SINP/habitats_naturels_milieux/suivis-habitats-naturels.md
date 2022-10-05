@@ -13,13 +13,13 @@
 
 ### Ressources
 
-[xlsform et medias](./fichiers/releves_phytosociologiques)
+[xlsform et medias](../fichiers/releves_phytosociologiques)
 
 ### Présentation détaillée
 
 à venir !
 
-# Suivi de l'état de conservation des habitats
+# Suivi de l'état de conservation des habitats                 
 
 Formulaire co-développé par Nathalie Hiessler et Mathieu Bossaert au CEN Occitanie
 
@@ -68,7 +68,7 @@ Le formulaire utilise le widget [select-one-from-map-widget](https://docs.getodk
 
 ### Ressources
 
-[xlsform et medias](./fichiers/suivi_herbiers_lagunaires)
+[xlsform et medias](../fichiers/suivi_herbiers_lagunaires)
 
 ### Présentation détaillée
 
@@ -76,7 +76,7 @@ Le formulaire utilise le widget [select-one-from-map-widget](https://docs.getodk
 
 # Inventaire / suivi de mares (PRAM)
 
-\-> Formulaire développé par Liza Jabbour au CEN Occitanie dans le cadre de sa formation au sein du Master 2 SIGMA (ENSAT – INP) [Voir sa description détaillée ici](./pram.md)
+\-> Formulaire développé par Liza Jabbour au CEN Occitanie dans le cadre de sa formation au sein du Master 2 SIGMA (ENSAT – INP) [Voir sa description détaillée ici](../pram.md)
 
 # Milieu forestier
 
