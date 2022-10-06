@@ -1,7 +1,7 @@
-# CMR (Capture / marquage / recapture) de cistudes et d'émydes
+# CMR (Capture / marquage / recapture) de cistude et d'émyde lépreuse
 # Description
 ## Auteur(s)
--> Vivian Inereli & Mathieu Bosaert, CN Occitanie
+-> Vivian Inereli & Mathieu Bosaert, CEN Occitanie
 # Présentation détaillée
 Ce formulaire a pour but de remplacer les fiches d'identification et de biométrie des tortues capturées sur le terrain.
 ## Logique de collecte
@@ -31,10 +31,10 @@ Ce formulaire a pour but de remplacer les fiches d'identification et de biométr
 ## Utiliser ce formulaire
 ## XLSform
 * [xlsform](../fichiers/cmr_cistude_emyde/CMR_Cistude_captures.xlsx)
+## Données externes et médias associés
 * [dossiere cistude](../fichiers/cmr_cistude_emyde/cistude_dossiere_etiquette.svg)
 * [emplacement des pièges (dégradé)](../fichiers/cmr_cistude_emyde/pieges.geojson)
 * [logo du cen](../fichiers/cmr_cistude_emyde/logo_cen.jpg)
-## Données externes et médias associés
 # Fonctionnalités de Xlsform mises en oeuvre
 * Sélection multiple sur dessin svg (carapace de la tortue) pour pointer les écailles marquées.
 * lien web : chargement de photos relatives à l'individu capturée
