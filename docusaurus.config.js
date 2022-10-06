@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Formulaire ODK-SINP',
+  title: 'Formulaire ODK pour la conservation de la nature',
   tagline: 'Base documentaire',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/website/',
