@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Formulaire ODK pour la conservation de la nature',
-  tagline: 'Base documentaire',
+  title: 'Formulaires ODK pour la conservation de la nature',
+  tagline: 'Mis en oauvres dans le réseau des Conservatoires d\'espces naturels et ailleurs',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/website/',
   // Dirty build, ignore broken links for the moment
@@ -27,8 +27,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'fr',
+    locales: ['fr'],
   },
 
   presets: [
