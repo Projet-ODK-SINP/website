@@ -16,4 +16,4 @@ Ces formulaires, les ressources qu'ils utilisent (référentiels, images...) ain
 
 ## [ODK et le xlsform](./odk.md)
 
-## [Les formulaires mis en oeuvre](./donnees_opportunistes/)
+## [Les formulaires mis en oeuvre](./ODK-SINP/)
