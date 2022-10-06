@@ -1,3 +1,14 @@
+---
+id: Kollect
+title: Le formulaire qui alimente Kollect
+tags:
+  - Kollect
+  - opportuniste
+  - faune
+  - flore
+  - fonge
+  - habitats
+---
 # Kollect taxon
 
 -> formulaire développé par Thomas GACHET au CEN Nouvelle-Aquitaine
