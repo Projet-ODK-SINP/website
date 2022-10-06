@@ -1,4 +1,4 @@
-# Suivis *Psammodrome d'Edwards*
+# Suivis "Psammodrome d'Edwards"
 
 Formulaire développé par Nathalie Hiessler au CEN Occitanie
 

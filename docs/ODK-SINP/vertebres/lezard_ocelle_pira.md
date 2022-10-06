@@ -1,4 +1,4 @@
-# Suivis *Lézard Ocellé* (PIRA)
+# Suivis "Lézard Ocellé" (PIRA)
 
 Formulaire développé par Nathalie Hiessler au CEN Occitanie
 

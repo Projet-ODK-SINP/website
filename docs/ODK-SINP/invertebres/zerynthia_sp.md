@@ -1,4 +1,4 @@
-# Suivi *Zerynthia sp.* (*Diane* et *Proserpine*) dans le cadre de mesures compensatoires
+# Suivi Zerynthia sp. (Diane et Proserpine) dans le cadre de mesures compensatoires
 
 Formulaire développé par Nathalie Hiessler au CEN Occitanie.
 
