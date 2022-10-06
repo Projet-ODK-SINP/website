@@ -8,6 +8,12 @@ sidebar_position: 2
 ## Présentation de l'équipe
 ![l'équipe qui se cache derrière ODK](./ODK-SINP/fichiers/ODK_team.png)
 
+## Quelques présentations réalisées au sujet d'ODK au CEN
+
+* https://static.geotribu.fr/articles/2021/2021-06-08_odk_postgis_1/
+* https://si.cen-occitanie.org/opendatakit_au_foss4g-fr_2018/
+* https://si.cen-occitanie.org/wp-content/uploads/2022/06/CEN_Occitanie_SI_PostGIS_ODK.pdf
+
 ## Installation et configuration d’ODK Collect
 
 ### Installation
