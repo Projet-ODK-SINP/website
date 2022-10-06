@@ -1,6 +1,6 @@
 ---
 id: SiCenODK
-title: Le formulaire qui alimente SICEN
+title: SiCenODK
 tags:
   - sicen
   - opportuniste
@@ -12,16 +12,6 @@ tags:
 # SiCenODK
 
 ## Saisie de données
-
-Sur la page d’accueil de l’application, cliquons sur **Remplir un formulaire**
-
-Choisissons **Sicen**
-
-![Screenshot_2021-03-15-16-19-30](../fichiers/SicenODK/ecrans/e9cd90278941d4ed54c8a648be9829707dba48a6_2_281x500.png)
-
-Les 3 premiers écrans vous présentent le paramétrage de l’application. A la première utilisation, les fonctionnalités seront toutes activées par défaut. Libre à vous de désactiver celles qui vous semblent provisoirement ou définitivement inutiles.  
-A l’utilisation suivante, chacune des fonctionnalités sera proposée dans l’état d’activation qui était le sien lors de votre dernière utilisation. Vous pourrez là encore valider ou modifier chacun de ce choix.  
-Les fonctionnalités désactivées ici seront masquées pendant votre utilisation du formulaire.
 
 ### Écran de paramétrage n°1 → l’identité de l’utilisateur
 

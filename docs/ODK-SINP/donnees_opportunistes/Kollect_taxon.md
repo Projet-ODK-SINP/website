@@ -1,13 +1,12 @@
 ---
 id: Kollect
-title: Le formulaire qui alimente Kollect
+title: Kollect Taxon
 tags:
   - Kollect
   - opportuniste
   - faune
   - flore
   - fonge
-  - habitats
 ---
 # Kollect taxon
 
