@@ -1,4 +1,8 @@
-# Nom du formualaire
+---
+sidebar_position: 3
+---
+# Modèle de fiche descriptive
+## Nom du formualaire
 ## Description
 ### Auteur(s)
 -> nom, prénom et structure
@@ -8,7 +12,7 @@
 ## Présentation détaillée
 ### Logique de collecte
 ### Captures d'écrans et démos
-### Déployer le formulaire
+### Utiliser ce formulaire
 ## Lien vers XLSform
 ## Lien vers données externes et médias associés
 ### Fonctionnalités de Xlsform mises en oeuvre
