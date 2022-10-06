@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # ODK - Open Data Kit
 
 ## Évolution technique d’ODK
