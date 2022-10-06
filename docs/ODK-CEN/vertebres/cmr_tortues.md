@@ -32,7 +32,7 @@ Ce formulaire a pour but de remplacer les fiches d'identification et de biométr
 ## XLSform
 * [xlsform](../fichiers/cmr_cistude_emyde/CMR_Cistude_captures.xlsx)
 ## Données externes et médias associés
-* [dossiere cistude](../fichiers/cmr_cistude_emyde/cistude_dossiere_etiquette.svg)
+* [dessin svg de la dossière de cistude](../fichiers/cmr_cistude_emyde/cistude_dossiere_etiquette.svg)
 * [emplacement des pièges (dégradé)](../fichiers/cmr_cistude_emyde/pieges.geojson)
 * [logo du cen](../fichiers/cmr_cistude_emyde/logo_cen.jpg)
 # Fonctionnalités de Xlsform mises en oeuvre
