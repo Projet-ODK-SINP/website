@@ -14,6 +14,6 @@ Ces formulaires, les ressources qu'ils utilisent (référentiels, images...) ain
 
 ## les suivis scientifiques dans les CENs
 
-## ODK et le xlsform
+## [ODK et le xlsform](./odk.md)
 
-## [Les formulaires mis en oeuvre](ODK-SINP/formulaires.md)
+## [Les formulaires mis en oeuvre](./donnees_opportunistes/)
