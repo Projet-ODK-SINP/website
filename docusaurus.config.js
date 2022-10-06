@@ -61,7 +61,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'ODK-CEN',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -72,19 +72,19 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Documentation',
-          },
+          } /*,
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
-          },
+          },*/
         ],
       },
       footer: {
         style: 'dark',
         links: [
-          {
+          /*{
             title: 'Docs',
             items: [
               {
@@ -92,34 +92,34 @@ const config = {
                 to: '/docs/intro',
               },
             ],
-          },
+          },*/
           {
-            title: 'Community',
+            title: 'la communauté ODK',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Forum d\'ODK',
+                href: 'https://forum.getodk.org/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+                label: 'GetODK',
+                href: 'https://www.getodk.org/',
+              }
             ],
           },
           {
-            title: 'More',
+            title: 'Les CENs participants',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Occitanie',
+                to: 'https://si.cen-occitanie.org',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Nouvelle-Aquitaine',
+                to: 'https://cen-nouvelle-aquitaine.org',
+              },
+              {
+                label: 'la Fédération des CEN',
+                href: 'https://reseau-cen.org',
               },
             ],
           },
