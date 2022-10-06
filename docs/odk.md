@@ -3,18 +3,10 @@ sidebar_position: 2
 ---
 # ODK - Open Data Kit
 
-## Évolution technique d’ODK
+## Présentation de l'outil
 
-Avant de commencer, un (tout petit) peu de contexte technique.  
-ODK a remplacé le serveur Aggregate par un serveur plus moderne appelé Central. Cela est transparent pour vous mais entraîne quelques changements dans l’usage que vous faites de Collect. La mise à jour des formulaires sur votre téléphone est désormais automatique, tout comme l’envoi des données finalisées au serveur.
-
-Pour ce qui concerne les géomaticiens, Central nous permet de gérer des groupes d’utilisateurs qui accèdent à différents formulaires (Bénévoles, prestataires, partenaires…).
-
-Enfin, un des gros avantages de Central réside dans le fait que les formulaires réalisés pour vos téléphones sont aussi diffusés sous la forme de formulaires web (à ouvrir dans un navigateur), utilisables eux aussi en mode déconnecté. Nathalie reviendra bientôt vers nous avec un formulaire téléphone et web.
-
-Nous pouvons donc désormais utiliser ODK pour lancer des enquêtes web participatives, ou des sondages relatifs à un évènement particulier, en remplacement des framaforms et autres limesurvey.
-
-# Revenons à Sicen.
+## Présentation de l'équipe
+![l'équipe qui se cache derrière ODK](./ODK-SINP/fichiers/ODK_team.png)
 
 ## Installation et configuration d’ODK Collect
 
