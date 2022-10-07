@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # ODK - Open Data Kit
 
-Exemple de l'importance d'ODK dans la collecte de donnée au CEN Occitanie
+Exemple de l'importance d'ODK dans la collecte de données au CEN Occitanie
 <iframe src="https://dashboards.cen-occitanie.org/embed/query/150/visualization/490?api_key=k6q0e0T0CPfE2ceVJz4uaaCfapg4VHio2dTlmsoK&" width="720" height="391"></iframe>
 
 ## Présentation de l'outil

@@ -188,8 +188,8 @@ Une fois ceci fait on peut aller au bout du formulaire et le marquer comme final
 
 ## Utiliser ce formulaire
 ### XLSform
-[xlsform](./fichiers/SicenODK/Sicen_2022.xlsx)
-[ressources associées](./fichiers/SicenODK/referentiels_especes_et_habitats.zip)
+* [xlsform](./fichiers/SicenODK/Sicen_2022.xlsx)
+* [ressources associées](./fichiers/SicenODK/referentiels_especes_et_habitats.zip)
 ## Fonctionnalités de XLSForm mises en oeuvre
 * #last-saved
 * select_one
