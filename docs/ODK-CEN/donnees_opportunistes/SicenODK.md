@@ -14,13 +14,14 @@ tags:
 ### Auteurs
 Mathieu BOSSAERT (CEN Occitanie)
 ### Objectif
-Initialement, permettre le rensiegnement de la base de données web SICEN avec un téléphone Android. Un remier travail a été mené avec les collègues du CEN Rhône-Alpes en 2016
-Par extension et évolution, permettre aux utilisateurs de renseigner des données d'observation opportunistes, relatives à la faune, à la flore et aux habitats naturels.
-L'utilisateur peut aussi localiser et décrire (texte, photo annotée) des menaces sur le milieu, des préconisation des gestion ou de sobservations générales.
+Initialement, permettre le rensiegnement de la base de données web SICEN avec un téléphone Android. Un travail initial a été mené avec les collègues du CEN Rhône-Alpes en 2016
+Par extension et évolutions, le formulaire permet aux utilisateurs de renseigner des données d'observation opportunistes, relatives à la faune, à la flore et aux habitats naturels.
+L'utilisateur peut aussi localiser et décrire (texte, photo annotée) des menaces sur le milieu, des préconisations de gestion ou des observations générales.
 
-Ce formulaire est la porte d'entrée principale de la donnée naturaliste au CEN Occitanie. 
+Ce formulaire est la porte d'entrée principale de la donnée naturaliste au CEN Occitanie.
+
 #### Protocole mis en oeuvre
--> lien vers le pdf ou autre ressource
+Dédié à la saisie d'obsevrations "opportunistes", ce formualire ne décrit ni ne respecte de protocole de collecte.
 ## Présentation détaillée
 ### Logique de collecte
 L'observateur itère dans deux boucles imbriquées : 
@@ -29,7 +30,7 @@ L'observateur itère dans deux boucles imbriquées :
 ### Captures d'écrans et démos
 #### Écran de paramétrage n°1 → l’identité de l’utilisateur
 
-Les champs sont remplis par défaut avec les valeurs saisies dans les paramètres généraux de l’application (voir début de ce tutoriel)
+Les champs sont remplis par défaut avec les valeurs saisies dans les paramètres généraux de l’application
 
 ![Screenshot_2021-03-15-16-19-36](../fichiers/SicenODK/ecrans/3c214c32ad4a8edd598b9f9cbb8c018be3aafeb4_2_281x500.png)
 
@@ -98,7 +99,7 @@ On peut aussi utiliser un code espèce compose ds 3 premières lettres du Genre 
 
 ![bc2e8491ac46b81a4526453e20075d657f60b167](../fichiers/SicenODK/ecrans/bc2e8491ac46b81a4526453e20075d657f60b167_2_281x500.png)
 
-#### Renseignement de l’effectif observé
+### Renseignement de l’effectif observé
 
 Pour clarifier la collecte de données d’absence, nous avons ajouté une question explicite :  
 Si le taxon n’a pas été vu, c’est qu’il était recherché et absent. Dans ce cas les questions relatives à la saisie de l’effectif ne seront pas affichée.
@@ -136,7 +137,7 @@ Cela peut être utile pour les photos de site dans le cas d’observations de ty
 
 ![Screenshot_2021-03-15-16-22-48](../fichiers/SicenODK/ecrans/bbfbdb9fa5891f2586f11b97d57b7ab933af78dc_2_281x500.jpeg)
 
-### ajout d’une observation
+### Ajout d’une observation
 
 Si oui on revient à la saisie d’une observation sur l’emplacement courant.
 
@@ -184,3 +185,20 @@ Une fois ceci fait on peut aller au bout du formulaire et le marquer comme final
 - possibilité de créer une observation de type « station »
 - possibilité de ne pas repasser sur ses préférences pour ne pas voir ces deux écrans au démarrage
 - possibilité d’ajouter un nouveau site/étude/protocole si celui qu’il vous faut n’est pas listé.
+
+## Utiliser ce formulaire
+### XLSform
+[xlsform](./fichiers/SicenODK/Sicen_2022.xlsx)
+[ressources associées](./fichiers/SicenODK/referentiels_especes_et_habitats.zip)
+## Fonctionnalités de XLSForm mises en oeuvre
+* #last-saved
+* select_one
+* pulldata et fonction search() avec référentiels csv
+* widgets geographiques
+### Discussions relatives à ce formualire sur le [forum d'ODK](https://forum.getodk.org)
+La description détaillée du formulaire (juin 2020)  :
+https://forum.getodk.org/t/odk-to-collect-species-and-habitats-localities-as-pressure-and-threats-to-ecosystems/26332
+
+### Traitement des données
+#### Scripts SQL
+* génération des référentiels utilisés par l'application à partir de taxref : 
