@@ -1,8 +1,9 @@
-# Générer des fonds de carte hors ligne pour ODK
+# Générer des fonds de carte hpour utilisation hors-ligne dans ODK
 
 Voici la traduction d'un tutoriel de Florian Mayer sur le forum ODK, qui présente comment générer vos fond de cartes avec toute l'info que vous voudrez y superposer, pour aller sur le terrain avec ODK ou Oruxmaps (navigation seule)
 
-Article Original : [https://forum.getodk.org/t/generate-offline-background-imagery-for-odk-collect-mbtiles/31200/6](https://forum.getodk.org/t/generate-offline-background-imagery-for-odk-collect-mbtiles/31200/6]
+Article Original : 
+https://forum.getodk.org/t/generate-offline-background-imagery-for-odk-collect-mbtiles/31200/6
 
 La documentation sur l'utilisation de fonds de carte hors lohgne dans ODK est ici : https://docs.getodk.org/collect-offline-maps/ .
 
@@ -10,7 +11,7 @@ Cet article est une mise en partique rapide de l'étape n°1 du [quickstart] (ht
 
 Les données de base sont des sources de données raster et vectorielles librement disponibles*, ainsi que des données de référence propres. (*Rappel : respectez les droits d'auteur et les conditions d'utilisation des sources de données utilisées).
 
-Le processus aboutira à la création d'un ou plusieurs fichiers MapBox Tiles (.mbtiles) placés dans le dossier dédié d'ODK Collect `/Android/data/org.odk.collect.android/files/layers`. Remarque sur l'emplacement du stockage d'ODK Collect : les dernières versions d'ODK Collect sont contraintes par un changement de la politique d'Android vis-à-vis du stockage de données de l'application dans le stockage interne du téléphone. La carte SD n'est plus une option. TL;DR : Passez à la dernière version d'ODK Collect, laissez-le migrer son stockage et utilisez les chemins de fichiers présentés dans ce tutoriel.
+Le processus aboutira à la création d'un ou plusieurs fichiers MapBox Tiles (.mbtiles) placés dans le dossier dédié d'ODK Collect `/Android/data/org.odk.collect.android/files/layers`.
 
 ## Logiciel
 
@@ -34,7 +35,7 @@ Au cours de cette étape, nous allons créer dans QGIS, tlle que nous aimerions 
 
 * Couche > Ajouter une couche > Ajouter une couche WMS/WMTS
 * Nouveau
-* URL https://wxs.ign.fr/choisirgeoportail/geoportail/wmts?SERVICE=WMTS&REQUEST=GetCapabilities
+* URL : https://wxs.ign.fr/essentiels/geoportail/wmts?SERVICE=WMTS&REQUEST=GetCapabilities
 * Nommez-la comme vous le souhaitez, par exemple IGN ORTHOPHOTOS.
 * PLacez la couche au dessu d'OSM
 * L'échelle visible la plus basse de l'Orthophoto est d'environ 1:850
@@ -51,7 +52,7 @@ Au cours de cette étape, nous allons créer dans QGIS, tlle que nous aimerions 
 
 Dans cette étape, nous allons générer le fichier MBTiles à partir des couches raster et vectorielles affichées dans QGIS pour les zones que nous souhaitons embarquer dans ODK pour un travail hors connexion.
 
-QGIS peut générer nativement des MBTiles, voir la documentation QGIS sur [Generate XYZ Tiles 3] (https://docs.qgis.org/3.16/en/docs/user_manual/processing_algs/qgis/rastertools.html#generate-xyz-tiles-mbtiles).
+QGIS peut générer nativement des MBTiles, voir la documentation QGIS sur [Generate XYZ Tiles 3](https://docs.qgis.org/3.16/en/docs/user_manual/processing_algs/qgis/rastertools.html#generate-xyz-tiles-mbtiles).
 
 * Ouvrez la boîte à outils de "Traitement" > Boite à Outils > Outils rasters > Générer des tuiles XYZ (MBTiles).
 * Zoomer le canevas sur chaque zone d'intérêt.

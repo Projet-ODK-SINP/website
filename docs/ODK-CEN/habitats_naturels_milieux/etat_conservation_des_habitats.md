@@ -4,7 +4,7 @@ Formulaire co-développé par Nathalie Hiessler et Mathieu Bossaert au CEN Occit
 
 Mise en oeuvre de la méthode d'évaluation de l'état de conservation des habitats naturels (Klesczewski et al. 2010)
 
-_Mario Klesczewski, Jérémie Barret, Clément Baudot, Joseph Fleury.  Evaluer l’état de conservation  des habitats naturels à l’échelle du terrain : approches dans le Languedoc-Roussillon. Revue forestière française, AgroParisTech, 2010, 62 (3-4), pp.417-427. 10.4267/2042/38955._ [hal-03449686](<https://hal.archives-ouvertes.fr/hal-03449686/document)>
+_Mario Klesczewski, Jérémie Barret, Clément Baudot, Joseph Fleury.  Evaluer l’état de conservation  des habitats naturels à l’échelle du terrain : approches dans le Languedoc-Roussillon. Revue forestière française, AgroParisTech, 2010, 62 (3-4), pp.417-427. 10.4267/2042/38955._ [hal-03449686](https://hal.archives-ouvertes.fr/hal-03449686/document)
 
 ### Logique du formulaire
 
