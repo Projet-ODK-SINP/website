@@ -10,10 +10,24 @@ tags:
   - habitats
 ---
 # SiCenODK
+## Description
+### Auteurs
+Mathieu BOSSAERT (CEN Occitanie)
+### Objectif
+Initialement, permettre le rensiegnement de la base de données web SICEN avec un téléphone Android. Un remier travail a été mené avec les collègues du CEN Rhône-Alpes en 2016
+Par extension et évolution, permettre aux utilisateurs de renseigner des données d'observation opportunistes, relatives à la faune, à la flore et aux habitats naturels.
+L'utilisateur peut aussi localiser et décrire (texte, photo annotée) des menaces sur le milieu, des préconisation des gestion ou de sobservations générales.
 
-## Saisie de données
-
-### Écran de paramétrage n°1 → l’identité de l’utilisateur
+Ce formulaire est la porte d'entrée principale de la donnée naturaliste au CEN Occitanie. 
+#### Protocole mis en oeuvre
+-> lien vers le pdf ou autre ressource
+## Présentation détaillée
+### Logique de collecte
+L'observateur itère dans deux boucles imbriquées : 
+* la première pour créer une localité (point ligne ou polygon, dessiné sur la carte ou relevé au GPS)
+* la seconde pour ajouter des observations à cette localité.
+### Captures d'écrans et démos
+#### Écran de paramétrage n°1 → l’identité de l’utilisateur
 
 Les champs sont remplis par défaut avec les valeurs saisies dans les paramètres généraux de l’application (voir début de ce tutoriel)
 

@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 # Modèle de fiche descriptive
-## Nom du formualaire
+## Nom du formulaire
 ## Description
 ### Auteur(s)
 -> nom, prénom et structure
