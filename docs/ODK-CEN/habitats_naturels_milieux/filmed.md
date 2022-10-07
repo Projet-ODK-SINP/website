@@ -1,4 +1,38 @@
+---
+id: FILMED
+title: FILMED
+tags:
+  - lagunes
+  - physicochimie
+---
+# FILMED
+Suivi des paramètres physicochimiques des lagunes méditerranéeenes
+## Description
+### Auteurs
+Mathieu BOSSAERT (CEN Occitanie) pour le [Pôle-relai Lagunes](https://pole-lagunes.org/)
+### Objectif
 
+
+### Protocole mis en oeuvre
+guide de terrain FILMED
+### Logique de collecte
+* Saisie optionnelle des conditions du relevé (météo)
+* Pour chaque station en eau, mesure et saisie des paramètres suivants
+  * Niveau ngf (cm)
+  * Commentaire ngf
+  * Niveau relatif (cm)
+  * Conductivité (ms/cm)
+  * Salinité (g/l)
+  * Température (°c)
+  * Ph
+  * Redox (mv)
+  * Oxygène dissous (mg/l)
+  * Saturation en O2 (%)
+  * Turbidité (cm (secchi) ou NTU)
+  * Couleur de l’eau
+  * Présence de macrophytes
+
+## Captures d'écrans et démos
 ### Écran n°1 : identité et date
 
 Le premier écran reprend vos informations d'identité, renseignées lors de l'initialisation de l'appareil, et vous présente la date du jour.
