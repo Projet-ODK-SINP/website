@@ -13,9 +13,9 @@ sidebar_position: 5
 ### Logique de collecte
 ### Captures d'écrans et démos
 ### Utiliser ce formulaire
-### XLSform
+#### XLSform
 -> lien vers le fichier
-### Données externes et médias associés
+#### Données externes et médias associés
 -> liens vers les ressources
 ## Fonctionnalités de XLSForm mises en oeuvre
 Si le formualire peut servir d'exemple dans l'utilistaion de telle ou telle fonctionnalité.
