@@ -27,7 +27,7 @@ Mathieu BOSSAERT (Cen Occitanie)
 
 ## Ressources
 
-* ![xlsform](.../fichiers/Mare_OSU_OREME/MaresCNRS.xlsx)
+* ![xlsform](../fichiers/Mare_OSU_OREME/MaresCNRS.xlsx)
 * [Protocole](../fichiers/Mare_OSU_OREME/Programme_Mare_OSU_OREME_1.pdf)
 
 ## Captures d'écrans
