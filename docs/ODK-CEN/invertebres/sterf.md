@@ -1,4 +1,4 @@
-# Suivi Temporel des Rhopalocères de France (STERF)
+# STERF (Suivi Temporel des Rhopalocères de France)
 
 ## Logique du formulaire
 

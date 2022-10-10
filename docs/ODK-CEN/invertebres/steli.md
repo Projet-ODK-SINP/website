@@ -1,4 +1,4 @@
-# Suivi Temporel des Libellules (STELI)
+# STELI (Suivi Temporel des Libellules)
 
 ## Logique du formulaire
 
