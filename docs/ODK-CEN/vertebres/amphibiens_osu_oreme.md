@@ -4,6 +4,7 @@
 Mathieu BOSSAERT (Cen Occitanie) 
 ### Objectif
 #### Protocole mis en oeuvre
+* [Protocole](../fichiers/mare_amphibiens_OSU_OREME/Programme_mare_amphibiens_OSU_OREME_1.pdf)
 -> lien vers le pdf ou autre ressource
 ## Présentation détaillée
 ### Logique de collecte
@@ -24,11 +25,6 @@ Mathieu BOSSAERT (Cen Occitanie)
   * Pelobates cultripes
   * Hyla meridionalis
   * Pelophylax sp.
-
-## Ressources
-
-* [xlsform](../fichiers/mare_amphibiens_OSU_OREME/MaresCNRS.xlsx)
-* [Protocole](../fichiers/mare_amphibiens_OSU_OREME/Programme_mare_amphibiens_OSU_OREME_1.pdf)
 
 ## Captures d'écrans
 ### Ecran n° 1 : introduction 
@@ -70,34 +66,32 @@ Mathieu BOSSAERT (Cen Occitanie)
 ### Ecran n° 19 : espèces le cas échéant (sinon écran masqué) 
 ![](../fichiers/mare_amphibiens_OSU_OREME/ecrans/2022_10_10_03_12_57_.png)
 ### Ecran n° 20 : présence d'écrevisses
-![](../fichiers/mare_amphibiens_OSU_OREME/ecrans/2022_10_10_04_12_43_.png
-### Ecran n° 21 : espèces le cas échéant (sinon écran masqué) 
 ![](../fichiers/mare_amphibiens_OSU_OREME/ecrans/2022_10_10_03_13_08_.png)
-### Ecran n°  
+### Ecran n° 21 : espèces le cas échéant (sinon écran masqué) 
+![](../fichiers/mare_amphibiens_OSU_OREME/ecrans/2022_10_10_04_12_43_.png)  
+### Ecran n° 22 ; choix de l'espèce d'amphibien comptée
 ![](../fichiers/mare_amphibiens_OSU_OREME/ecrans/2022_10_10_03_13_19_.png)
-### Ecran n°  
+### Ecran n° 23 : effectif d'individus adultes 
 ![](../fichiers/mare_amphibiens_OSU_OREME/ecrans/2022_10_10_03_13_25_.png)
-### Ecran n°  
+### Ecran n° 24 : "état" des adultes
 ![](../fichiers/mare_amphibiens_OSU_OREME/ecrans/2022_10_10_03_13_29_.png)
-### Ecran n°  
-![](../fichiers/mare_amphibiens_OSU_OREME/ecrans/2022_10_10_03_13_37_.png)
-### Ecran n°  
+### Ecran n° 25 : effectif d'individus juvéniles
 ![](../fichiers/mare_amphibiens_OSU_OREME/ecrans/2022_10_10_03_14_15_.png)
-### Ecran n°  
+### Ecran n° 26 : "état" des juvéniles 
 ![](../fichiers/mare_amphibiens_OSU_OREME/ecrans/2022_10_10_03_14_20_.png)
-### Ecran n°  
+### Ecran n° 27 : effectif des pontes 
 ![](../fichiers/mare_amphibiens_OSU_OREME/ecrans/2022_10_10_03_14_25_.png)
-### Ecran n°  
+### Ecran n° 28 : "état" des pontes
 ![](../fichiers/mare_amphibiens_OSU_OREME/ecrans/2022_10_10_03_14_30_.png)
-### Ecran n°  
+### Ecran n° 29 : effectif des larves
 ![](../fichiers/mare_amphibiens_OSU_OREME/ecrans/2022_10_10_03_14_35_.png)
-### Ecran n°  
+### Ecran n° 30 : "état" des larves
 ![](../fichiers/mare_amphibiens_OSU_OREME/ecrans/2022_10_10_03_14_39_.png)
-### Ecran n°  
+### Ecran n° 31 : comptage d'une autre espèces ? 
 ![](../fichiers/mare_amphibiens_OSU_OREME/ecrans/2022_10_10_03_14_44_.png)
 
 ### Utiliser ce formulaire
 #### XLSform
--> lien vers le fichier
+* [xlsform](../fichiers/mare_amphibiens_OSU_OREME/MaresCNRS.xlsx)
 #### Données externes et médias associés
 -> liens vers les ressources
