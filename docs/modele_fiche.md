@@ -1,28 +1,35 @@
 ---
 sidebar_position: 5
 ---
-# Modèle de fiche descriptive
-## Nom du formulaire
+# Nom du formulaire
+
 ## Description
 ### Auteur(s)
 -> nom, prénom et structure
 ### Objectif
 #### Protocole mis en oeuvre
 -> lien vers le pdf ou autre ressource
+
 ## Présentation détaillée
 ### Logique de collecte
-### Captures d'écrans et démos
-### Utiliser ce formulaire
-#### XLSform
+### Captures d'écrans et/ou vidéo de démonstration
+
+## Utiliser ce formulaire
+### Licence
+choisir entre [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/)
+et [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/)
+### XLSform
 -> lien vers le fichier
-#### Données externes et médias associés
+### Données externes et médias associés
 -> liens vers les ressources
+
 ## Fonctionnalités de XLSForm mises en oeuvre
 Si le formualire peut servir d'exemple dans l'utilistaion de telle ou telle fonctionnalité.
 Préciser par exemple les questions ou lignes concernées et mentionner les liens vers la documentation ou les discussions correspondantes sur le formum...
 Préciser aussi si certaines aspects sont obsolètes / pourraient être améliorée aves les dernièrese versions d'ODK
 ### Discussion en ligne sur le forum d'ODK
-### Traitement des données
-#### Scripts SQL
-#### Scripts R
-#### Autres
+
+## Traitement des données
+### Scripts SQL
+### Scripts R
+### Autres
