@@ -188,7 +188,7 @@ Une fois ceci fait on peut aller au bout du formulaire et le marquer comme final
 
 ## Utiliser ce formulaire
 ### Licence
-[![CC-BY](./fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
 ### XLSform
 * [xlsform](./fichiers/SicenODK/Sicen_2022.xlsx)
 * [ressources associées](./fichiers/SicenODK/referentiels_especes_et_habitats.zip)
