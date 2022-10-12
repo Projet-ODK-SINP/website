@@ -16,8 +16,10 @@ sidebar_position: 5
 
 ## Utiliser ce formulaire
 ### Licence
-choisir entre [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/)
-et [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/)
+choisir entre 
+[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+et 
+[![CC-BY-SA](../fichiers/by-sa.png)](https://creativecommons.org/licenses/by-sa/2.0/fr/)
 ### XLSform
 -> lien vers le fichier
 ### Données externes et médias associés

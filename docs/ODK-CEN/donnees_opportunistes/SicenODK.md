@@ -187,6 +187,8 @@ Une fois ceci fait on peut aller au bout du formulaire et le marquer comme final
 - possibilité d’ajouter un nouveau site/étude/protocole si celui qu’il vous faut n’est pas listé.
 
 ## Utiliser ce formulaire
+### Licence
+[![CC-BY](./fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
 ### XLSform
 * [xlsform](./fichiers/SicenODK/Sicen_2022.xlsx)
 * [ressources associées](./fichiers/SicenODK/referentiels_especes_et_habitats.zip)
