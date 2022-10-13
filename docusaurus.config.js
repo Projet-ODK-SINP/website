@@ -124,7 +124,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `CEN Occitanie & CEN Nouvelle-Aquitaine - ${new Date().getFullYear()} Formulaires ODK pour la conservation de la nature, Inc. Built with Docusaurus.<br>Logos par @Exocet (https://openclipart.org/artist/Exocet) & Joseph El-Khouri, CC BY 3.0 US <https://creativecommons.org/licenses/by/3.0/us/deed.en>, via Wikimedia Commons`,
       },
       prism: {
         theme: lightCodeTheme,

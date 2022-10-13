@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Générique',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
         Les formulaires sont décrits dans des feuilles de calculs dans le formalimsme XLSForm.
