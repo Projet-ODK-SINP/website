@@ -18,7 +18,7 @@ const FeatureList = [
     Svg: require('@site/static/img/odata.svg').default,
     description: (
       <>
-        L&apos;API ODATA proposée par ODK Central permet de facilement intégrer les données collectées à son système d&apos;information.
+        L&apos;API ODATA facilite l&apos;intégration des données collectées à son système d&apos;information.
         Avec Python (pyODK),  R (ruODK), PostgreSQL (central2pg), avec un ETL comme fme, ou kettle, QGIS...
       </>
     ),
@@ -28,9 +28,7 @@ const FeatureList = [
     Svg: require('@site/static/img/odk.svg').default,
     description: (
       <>
-        ODK (Open Data Kit) est un
-        outil opensource de génération de
-        formulaires de collecte de donénes pour téléphones Android.
+        ODK (Open Data Kit) est un outil opensource de génération de formulaires de collecte de données pour téléphones Android.
       </>
     ),
   },
