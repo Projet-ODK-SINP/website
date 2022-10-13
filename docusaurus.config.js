@@ -120,7 +120,6 @@ const config = {
               {
                 label: 'la Fédération des CEN',
                 href: 'https://reseau-cen.org',
-                Svg: require('@site/static/img/fcen.svg').default
               },
             ],
           },
