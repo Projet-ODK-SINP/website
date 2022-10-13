@@ -8,18 +8,18 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Les formulaires sont décrits dans des feuilles de calculs dans le formalimsme XLSForm.
+        Il est trés facile d&apos;adapter des formulaires existants à ses propres besoins.
       </>
     ),
   },
   {
     title: 'Intéropérable',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/odata.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        L&apos;API ODATA proposée par ODK Central permet de facilement intégrer les données collectées à son système d&apos;information.
+        Avec Python (pyODK),  R (ruODK), PostgreSQL (central2pg), avec un ETL comme fme, ou kettle, QGIS...
       </>
     ),
   },
