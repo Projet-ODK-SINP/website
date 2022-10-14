@@ -37,9 +37,13 @@ Ce formulaire a pour but de remplacer les fiches d'identification et de biométr
 * [dessin svg de la dossière de cistude](../fichiers/cmr_cistude_emyde/cistude_dossiere_etiquette.svg)
 * [emplacement des pièges (dégradé)](../fichiers/cmr_cistude_emyde/pieges.geojson)
 * [logo du cen](../fichiers/cmr_cistude_emyde/logo_cen.jpg)
-# Fonctionnalités de Xlsform mises en oeuvre
+# Fonctionnalités de XLSForm mises en œuvre
 * Sélection multiple sur dessin svg (carapace de la tortue) pour pointer les écailles marquées.
 * lien web : chargement de photos relatives à l'individu capturée
 ## Discussion en lien sur le forum d'ODK
 [mise à jour des medias externes depuis les données d'un autre formulaire (pose de pièges)](https://forum.getodk.org/t/updating-external-datasets-from-another-forms-submissions-data-from-within-a-postgresql-database/37596)
 
+
+:::note crédits photos
+de haut en bas : Célia Grillas, Florian Larnaudie
+:::
