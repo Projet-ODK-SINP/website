@@ -1,8 +1,6 @@
 ---
 title: Suivi de l'état des ouvarges hydrauliques (martelières, échelles, vannes...)
 ---
-# Utilisation des véhicules de service
-
 ## Description
 ### Auteur(s)
 première version développée par Tao Joly. Seconde version en cours de développemet par Mathieu Bossaert, CEN Occitanie
