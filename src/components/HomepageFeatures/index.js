@@ -4,6 +4,15 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
+    title: 'OpenSource / mu par ODK',
+    Svg: require('@site/static/img/odk.svg').default,
+    description: (
+      <>
+        ODK (Open Data Kit) est un outil opensource de génération de formulaires de collecte de données pour téléphones Android.
+      </>
+    ),
+  },
+  {
     title: 'Générique',
     Svg: require('@site/static/img/logo.svg').default,
     description: (
@@ -20,15 +29,6 @@ const FeatureList = [
       <>
         L&apos;API ODATA facilite l&apos;intégration des données collectées à son système d&apos;information.
         Avec Python (pyODK),  R (ruODK), PostgreSQL (central2pg), avec un ETL comme fme, ou kettle, QGIS...
-      </>
-    ),
-  },
-  {
-    title: 'OpenSource / mu par ODK',
-    Svg: require('@site/static/img/odk.svg').default,
-    description: (
-      <>
-        ODK (Open Data Kit) est un outil opensource de génération de formulaires de collecte de données pour téléphones Android.
       </>
     ),
   },
