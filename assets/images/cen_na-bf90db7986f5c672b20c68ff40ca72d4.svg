@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="127.78753"
-   height="53.106216"
-   viewBox="0 0 33.810451 14.05102"
+   width="244.99998"
+   height="101.81763"
+   viewBox="0 0 64.822914 26.939248"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -230,12 +230,12 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.9219978"
-     inkscape:cx="60.210786"
-     inkscape:cy="95.760399"
+     inkscape:zoom="8.2646578"
+     inkscape:cx="198.34343"
+     inkscape:cy="68.424439"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -243,7 +243,7 @@
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-to-guides="false"
-     inkscape:snap-grids="false"
+     inkscape:snap-grids="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -255,20 +255,25 @@
      inkscape:window-y="1080"
      inkscape:window-maximized="1">
     <sodipodi:guide
-       position="43.073343,43.800567"
+       position="43.073349,56.187722"
        orientation="0,1"
        id="guide80"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="41.669837,35.198433"
+       position="41.669843,47.585587"
        orientation="0,1"
        id="guide100"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="23.107337,27.637609"
+       position="23.107343,40.024763"
        orientation="0,1"
        id="guide102"
        inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3805"
+       originx="5.9775551e-06"
+       originy="12.387154" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -286,10 +291,10 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-93.817867,-218.03518)">
+     transform="translate(-93.817861,-217.53411)">
     <g
        id="g154"
-       transform="translate(-34.680183,23.089939)">
+       transform="matrix(1.9172449,0,0,1.9172449,-152.54437,-156.22366)">
       <path
          style="fill:#fdfdfd;stroke-width:0.00297313"
          d="m 128.49805,201.97075 v -7.02551 h 16.90522 16.90523 v 7.02551 7.02551 h -16.90523 -16.90522 z"
