@@ -1,5 +1,11 @@
 # STELI (Suivi Temporel des Libellules)
 
+:::info
+
+Ce formulaire permet la saisie sur le terrain de toutes les informations nécessaires pour une bonne application du protocole STELI
+
+:::
+
 ## Logique du formulaire
 
 * Localisation du début de transect
