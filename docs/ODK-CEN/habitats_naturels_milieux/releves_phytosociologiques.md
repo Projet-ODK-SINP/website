@@ -1,6 +1,6 @@
 ---
 title: Relevés phytosociologiques
-sidebar_position: 2
+sidebar_position: 1
 ---
 # Relevés phytosociologiques
 ## Description

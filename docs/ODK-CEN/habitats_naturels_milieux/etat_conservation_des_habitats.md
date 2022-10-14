@@ -1,7 +1,7 @@
 ---
-
-## title: Suivi de l'état de conservation des habitats sidebar_position: 1
-
+title: Suivi de l'état de conservation des habitats
+sidebar_position: 2
+---
 # Suivi de l'état de conservation des habitats
 
 ## Description
