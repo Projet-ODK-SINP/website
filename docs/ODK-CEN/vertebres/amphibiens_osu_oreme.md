@@ -1,5 +1,4 @@
 # Suivis Amphibiens "OSU OREME"
-## &#128056;
 ## Description
 ### Auteur(s)
 Mathieu BOSSAERT (Cen Occitanie) 
