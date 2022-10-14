@@ -41,7 +41,7 @@ Mise en oeuvre de la méthode d'évaluation de l'état de conservation des habit
 
 ### Licence
 
-[![CC-BY](./ODK-CEN/fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
 
 ### XLSform
 

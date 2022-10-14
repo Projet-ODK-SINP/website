@@ -20,7 +20,7 @@ Création de relevés phytosociologiques
 à venir
 ## Utiliser ce formulaire
 ### Licence
-[![CC-BY](./ODK-CEN/fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
 ### XLSform
 [xlsform et medias](../fichiers/releves_phytosociologiques)
 
