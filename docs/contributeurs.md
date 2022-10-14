@@ -4,13 +4,13 @@ title: Les contributeurs
 ---
 ## Les auteurs des formulaires
 ### CEN Occitanie
-![](./docs/ODK-CEN/fichiers/logos/cen_occitanie.svg)
+![](./ODK-CEN/fichiers/logos/cen_occitanie.svg)
 * Mathieu Bossaert
 * Nathalie Hiessler
 * Hugo Norel
 * Vivian Inerelli
 * Tao Joly
 ### CEN Nouvelle-Aquitaine
-![](./docs/ODK-CEN/fichiers/logos/cen_na.svg)
+![](./ODK-CEN/fichiers/logos/cen_na.svg)
 * Thomas Gachet
 * Rémy Lebrun
