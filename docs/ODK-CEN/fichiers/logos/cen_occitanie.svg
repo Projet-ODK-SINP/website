@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="127.78756"
-   height="53.106216"
-   viewBox="0 0 33.810459 14.05102"
+   width="245"
+   height="101.81761"
+   viewBox="0 0 64.822918 26.939244"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -231,11 +231,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.9219978"
-     inkscape:cx="3.4003466"
-     inkscape:cy="123.48116"
+     inkscape:cx="123.73246"
+     inkscape:cy="55.499086"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -243,32 +243,37 @@
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-to-guides="false"
-     inkscape:snap-grids="false"
+     inkscape:snap-grids="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1044"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="830"
+     inkscape:window-x="1150"
+     inkscape:window-y="1080"
      inkscape:window-maximized="1">
     <sodipodi:guide
-       position="6.6727364,43.891116"
+       position="6.6727331,56.278284"
        orientation="0,1"
        id="guide80"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="5.2692304,35.288982"
+       position="5.269227,47.67615"
        orientation="0,1"
        id="guide100"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-13.29327,27.728158"
+       position="-13.293274,40.115326"
        orientation="0,1"
        id="guide102"
        inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid58"
+       originx="-3.4197233e-06"
+       originy="12.387168" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -286,10 +291,10 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-130.21847,-218.12573)">
+     transform="translate(-130.21847,-217.62467)">
     <g
        id="g147"
-       transform="translate(34.747681,27.707148)">
+       transform="matrix(1.9172446,0,0,1.9172446,-52.822387,-147.45432)">
       <path
          style="fill:#fdfdfd;stroke-width:0.00297313"
          d="m 95.470792,197.44409 v -7.02551 h 16.905228 16.90523 v 7.02551 7.02551 H 112.37602 95.470792 Z"
