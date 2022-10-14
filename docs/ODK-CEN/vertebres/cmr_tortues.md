@@ -1,5 +1,4 @@
-# CMR (Capture / marquage / recapture) de cistude et d'émyde lépreuse
-# Description
+# Capture, Marquage, Recapture de cistude et d'émyde lépreuse
 ![](../fichiers/cmr_cistude_emyde/images/Cistude_cgrillas.jpg)
 ## Auteur(s)
 -> Vivian Inereli & Mathieu Bossaert, CEN Occitanie
@@ -38,8 +37,8 @@ Ce formulaire a pour but de remplacer les fiches d'identification et de biométr
 * [emplacement des pièges (dégradé)](../fichiers/cmr_cistude_emyde/pieges.geojson)
 * [logo du cen](../fichiers/cmr_cistude_emyde/logo_cen.jpg)
 # Fonctionnalités de XLSForm mises en œuvre
-* Sélection multiple sur dessin svg (carapace de la tortue) pour pointer les écailles marquées.
-* lien web : chargement de photos relatives à l'individu capturée
+* [Sélection multiple sur dessin svg](https://docs.getodk.org/form-question-types/#select-from-image-widget) (carapace de la tortue) pour pointer les écailles marquées.
+* [lien web / url](https://docs.getodk.org/form-question-types/#url-widget) : chargement de photos relatives à l'individu capturée
 ## Discussion en lien sur le forum d'ODK
 [mise à jour des medias externes depuis les données d'un autre formulaire (pose de pièges)](https://forum.getodk.org/t/updating-external-datasets-from-another-forms-submissions-data-from-within-a-postgresql-database/37596)
 
