@@ -29,7 +29,9 @@ Ce formulaire a pour but de remplacer les fiches d'identification et de biométr
 
 ![](../fichiers/cmr_cistude_emyde/images/Marquage_F.larnaudie.jpg)
 ## Captures d'écrans et démos
-![](../fichiers/cmr_cistude_emyde/demo_formulaire_cistude.webm)
+<video controls>
+  <source src="/demo_formulaire_cistude.webm"/>
+</video>
 ## Utiliser ce formulaire
 ## XLSform
 * [xlsform](../fichiers/cmr_cistude_emyde/CMR_Cistude_captures.xlsx)
