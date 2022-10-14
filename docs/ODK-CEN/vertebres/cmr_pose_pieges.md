@@ -27,3 +27,6 @@ Géoréférencer et numéroter les pièges utilisés pour les capturese de cistu
 ### Scripts SQL
 ### Scripts R
 ### Autres
+:::note crédit photo
+Célia Grillas, CEN Occitanie
+:::
