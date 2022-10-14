@@ -8,7 +8,7 @@ sidebar_position: 5
 ### Auteur(s)
 -> nom, prénom et structure
 ### Objectif
-#### Protocole mis en oeuvre
+#### Protocole mis en œuvre
 -> lien vers le pdf ou autre ressource
 
 ## Présentation détaillée
@@ -27,9 +27,9 @@ et
 -> liens vers les ressources
 
 ## Fonctionnalités de XLSForm mises en oeuvre
-Si le formualire peut servir d'exemple dans l'utilistaion de telle ou telle fonctionnalité.
-Préciser par exemple les questions ou lignes concernées et mentionner les liens vers la documentation ou les discussions correspondantes sur le formum...
-Préciser aussi si certaines aspects sont obsolètes / pourraient être améliorée aves les dernièrese versions d'ODK
+Si le formulaire peut servir d'exemple dans l’utilisation de telle ou telle fonctionnalité.
+Préciser par exemple les questions ou lignes concernées et mentionner les liens vers la documentation ou les discussions correspondantes sur le forum...
+Préciser aussi si certaines aspects sont obsolètes / pourraient être améliorée aves les dernières versions d'ODK
 ### Discussion en ligne sur le forum d'ODK
 
 ## Traitement des données
