@@ -1,5 +1,5 @@
 ---
-title: modèle de fiche
+title: Modèle de fiche
 sidebar_position: 5
 ---
 # Nom du formulaire
