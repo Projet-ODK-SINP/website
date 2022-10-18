@@ -1,6 +1,9 @@
 # Kollect STELI (Suivi Temporel des Libellules)
 
-:::note remarque
+### Auteurs
+Thomas GACHET (CEN Nouvelle-Aquitaine)
+
+:::note Objectif
 
 Ce formulaire permet la saisie sur le terrain de toutes les informations nécessaires à la bonne application du protocole STELI pour intégration dans Kollect.
 
@@ -13,15 +16,24 @@ L'utilisateur doit être inscrit à Kollect et avoir reçu son QR Code ODK perso
 
 :::
 
-## Logique du formulaire
+### Protocole mis en oeuvre
+Suivi Temporel des Libellules ([STELI](https://steli.mnhn.fr/))
 
-<details>
-<summary>Ecran 1 : identité</summary>
-<div>
+### Logique du formulaire
+
+* Un formulaire est utilisé pour un seul relevé STELI sur un transect.
+* Il n'y a qu'une seule boucle qui permet d'ajouter plusieurs taxons pour le relevé.
+
+
+### Déroulé détaillé
+
+Ecran 1 : identité
+
 Identification de l'observateur principal et des éventuels autres observateur. Sélection de l'organisme rattaché à l'observateur principal puis de    l'étude rattachée à l'organisme (listes de rattachement gérées depuis Kollect et intégrées dans ODK via de csv exportés depuis la base de données)
-</div> 
-<img src="../fichiers/KollectODK/kollect_steli/1_identite_281x500.jpg" alt="Preview" />
-</details>
+
+
+![1_identite](../fichiers/KollectODK/kollect_steli/1_identite_281x500.jpg)
+
 
 
 * Localisation du début de transect pour rattachement automatique au transect dans Kollect (reqûête spatiale d'intersection à l'intégration)
