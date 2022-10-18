@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Formulaires ODK pour la conservation de la nature',
-  tagline: 'Mis en oeuvre dans le réseau des Conservatoires d\'espaces naturels et ailleurs\nAdossez un outil de collecte de données à vos protocoles',
+  tagline: 'Adossez un outil de collecte de données à vos protocoles',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/website/',
   // Dirty build, ignore broken links for the moment
