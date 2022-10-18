@@ -29,7 +29,8 @@ Suivi Temporel des Libellules ([STELI](https://steli.mnhn.fr/))
 
 #### 1 : identité
 
-* Identification de l'observateur principal et des éventuels autres observateur. Sélection de l'organisme rattaché à l'observateur principal puis de    l'étude rattachée à l'organisme (listes de rattachement gérées depuis Kollect et intégrées dans ODK via de csv exportés depuis la base de données).
+* Identification de l'observateur principal et des éventuels autres observateur. 
+* Sélection de l'organisme rattaché à l'observateur principal puis de l'étude rattachée à l'organisme (listes de rattachement gérées depuis Kollect et intégrées dans ODK via des _.csv_ exportés depuis la base de données).
 
 
 ![1_identite](../fichiers/KollectODK/kollect_steli/1_identite_281x500.jpg)
@@ -71,7 +72,7 @@ Suivi Temporel des Libellules ([STELI](https://steli.mnhn.fr/))
  
 * Localisation de la fin du transect (point) pour rattachement automatique au transect dans Kollect (requête spatiale d'intersection à l'intégration entre le transect présent dans Kollect et la polyligne créée à la volée grâce aux localisation de début et de fin).
 * Possibilité de noter un temps de pause en minutes.
-* Remarques éventuelles sur le relevé
+* Remarques éventuelles sur le relevé.
 
 ![7_fin_de_releve](../fichiers/KollectODK/kollect_steli/7_fin_de_releve_281x500.jpg)
 
