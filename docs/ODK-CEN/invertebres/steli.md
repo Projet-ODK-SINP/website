@@ -18,12 +18,9 @@ L'utilisateur doit être inscrit à Kollect et avoir reçu son QR Code ODK perso
 <details>
 <summary>Ecran 1 : identité</summary>
 <div>
-<div>
 Identification de l'observateur principal et des éventuels autres observateur. Sélection de l'organisme rattaché à l'observateur principal puis de    l'étude rattachée à l'organisme (listes de rattachement gérées depuis Kollect et intégrées dans ODK via de csv exportés depuis la base de données).
- 
-![1_identite](../fichiers/KollectODK/kollect_steli/1_identite_281x500.jpg)
- 
-</div>
+</br>
+<img src="../fichiers/KollectODK/kollect_steli/1_identite_281x500.jpg" alt="Preview" />
 </div>
 </details>
 
