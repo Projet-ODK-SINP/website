@@ -5,14 +5,14 @@ Thomas GACHET (CEN Nouvelle-Aquitaine)
 
 :::note Objectif
 
-Ce formulaire permet la saisie sur le terrain de toutes les informations nécessaires à la bonne application du protocole STELI pour intégration dans Kollect.
+Ce formulaire permet la saisie sur le terrain de toutes les informations nécessaires à la bonne application du **protocole STELI** pour intégration dans Kollect.
 
 :::
 
 :::info Prérequis
 
-Le transect doit être créé dans Kollect en amont pour que le rattachement soit automatique via la prise du point au début et à la fin du formulaire.
-L'utilisateur doit être inscrit à Kollect et avoir reçu son QR Code ODK personnel (pour récupération automatique de l'identité de l'observateur principal).
+Le transect doit être créé dans **Kollect** en amont pour que le rattachement soit automatique via la prise du point au début et à la fin du formulaire.
+L'utilisateur doit être inscrit à Kollect et avoir reçu son **QRCode ODK personnel** (pour récupération automatique de l'identité de l'observateur principal).
 
 :::
 
@@ -40,9 +40,14 @@ Suivi Temporel des Libellules ([STELI](https://steli.mnhn.fr/))
 * Prise d'une photo du début de transect.
 
 
+![2_localisation](../fichiers/KollectODK/kollect_steli/2_localisation_281x500.jpg)
+
+
 #### 3 : paramètres météorologiques
 
 * Saisie des paramètres météorologiques (température, hygrométrie, couverture nuageuse, vitesse et direction du vent, pluie).
+
+![3_parametres_exterieurs](../fichiers/KollectODK/kollect_steli/3_parametres_exterieurs_281x500.jpg)
 
 
 #### 4 : sélection du taxon observé et choix du/des stade(s)
@@ -50,10 +55,17 @@ Suivi Temporel des Libellules ([STELI](https://steli.mnhn.fr/))
 * Recherche dynamique par nom latin ou français et possibilité de sélectionner des groupes et/ou complexes d'espèces. 
 * En nom latin, possibilité de saisir les 3 premières lettres du genre suivi d'un espace pour aller plus vite dans la recherche.
 * Possibilité de sélectionner des groupes et complexes d'espèces.
+
+![4_selection_taxon](../fichiers/KollectODK/kollect_steli/4_selection_taxon_281x500.jpg)
+
  
  #### 5 : détails de l'observation
 
 * Saisie rapide des dénombrements selon le sexe et les comportements observés sur le terrain.
+
+![5_detail_taxon1](../fichiers/KollectODK/kollect_steli/5_detail_taxon1_281x500.jpg)
+
+![5_detail_taxon2](../fichiers/KollectODK/kollect_steli/5_detail_taxon2_281x500.jpg)
 
  #### 6 : localisation de l'arrivée
  
@@ -61,5 +73,14 @@ Suivi Temporel des Libellules ([STELI](https://steli.mnhn.fr/))
 * Possibilité de noter un temps de pause en minutes.
 * Remarques éventuelles sur le relevé
 
+![7_fin_de_releve](../fichiers/KollectODK/kollect_steli/7_fin_de_releve_281x500.jpg)
+
+
 ### Ressources
-A venir
+A venir!
+
+:::tip Mises à jour prévues
+
+* Sélection directement sur une carte du transect à parcourir (si le transect n'est pas présent, possibilité de le créer dynamiquement via les points de début et de fin pour modification dans Kollect)
+
+:::
