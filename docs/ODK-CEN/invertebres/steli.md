@@ -15,7 +15,16 @@ L'utilisateur doit être inscrit à Kollect et avoir reçu son QR Code ODK perso
 
 ## Logique du formulaire
 
-* Identification de l'observateur principal et des éventuels autres observateur. Sélection de l'organisme rattaché à l'observateur principal puis de l'étude rattachée à l'organisme (listes de rattachement gérées depuis Kollect et intégrées dans ODK via de csv exportés depuis la base de données).
+<details>
+<summary>Ecran 1 : identité</summary>
+<div>
+<br/>
+Identification de l'observateur principal et des éventuels autres observateur. Sélection de l'organisme rattaché à l'observateur principal puis de l'étude rattachée à l'organisme (listes de rattachement gérées depuis Kollect et intégrées dans ODK via de csv exportés depuis la base de données).
+ <br/>
+![1_identite](../fichiers/KollectODK/kollect_steli/1_identite_281x500.jpg)
+</div>
+ </details>
+
 
 * Localisation du début de transect pour rattachement automatique au transect dans Kollect (reqûête spatiale d'intersection à l'intégration)
 
