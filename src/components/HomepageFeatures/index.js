@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
-        Les formulaires sont décrits dans des feuilles de calculs dans le formalimsme XLSForm.
+        Les formulaires sont décrits dans des feuilles de calculs dans le formalisme XLSForm.
         Il est trés facile d&apos;adapter des formulaires existants à ses propres besoins.
       </>
     ),
@@ -28,7 +28,7 @@ const FeatureList = [
     description: (
       <>
         L&apos;API ODATA facilite l&apos;intégration des données collectées à son système d&apos;information.
-        Avec Python (pyODK),  R (ruODK), PostgreSQL (central2pg), avec un ETL comme fme, ou kettle, QGIS...
+        Avec Python (pyODK),  R (ruODK), PostgreSQL (central2pg), avec un ETL comme FME, ou kettle, QGIS...
       </>
     ),
   },
