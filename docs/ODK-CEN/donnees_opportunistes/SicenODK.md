@@ -12,17 +12,18 @@ position: 1
 ---
 # SiCenODK
 ## Description
+Proposer un carnet de terrain sur téléphone android, permettant de consigner ses observations et remarques
 ### Auteurs
 Mathieu BOSSAERT (CEN Occitanie)
 ### Objectif
-Initialement, permettre le rensiegnement de la base de données web SICEN avec un téléphone Android. Un travail initial a été mené avec les collègues du CEN Rhône-Alpes en 2016
+Initialement, permettre le renseignement de la base de données web SICEN avec un téléphone Android. Un travail initial a été mené avec les collègues du CEN Rhône-Alpes en 2016
 Par extension et évolutions, le formulaire permet aux utilisateurs de renseigner des données d'observation opportunistes, relatives à la faune, à la flore et aux habitats naturels.
 L'utilisateur peut aussi localiser et décrire (texte, photo annotée) des menaces sur le milieu, des préconisations de gestion ou des observations générales.
 
 Ce formulaire est la porte d'entrée principale de la donnée naturaliste au CEN Occitanie.
 
-#### Protocole mis en oeuvre
-Dédié à la saisie d'obsevrations "opportunistes", ce formualire ne décrit ni ne respecte de protocole de collecte.
+#### Protocole mis en œuvre
+Dédié à la saisie d’observations "opportunistes", ce formulaire ne décrit ni ne respecte de protocole de collecte.
 ## Présentation détaillée
 ### Logique de collecte
 L'observateur itère dans deux boucles imbriquées : 
@@ -45,7 +46,7 @@ Les champs sont remplis par défaut avec les valeurs saisies dans les paramètre
 
 ### Écran de paramétrage n°3 → Types de données (thématiques) et paramétrage de l’autocomplétion
 
-La dernière question vous permet de choisir le nombre de caractères à saisir dans le recherche des espèces avant de déclencher l’interrogation du référentiel. 3 est le minimum, 7 le maximum (pour permettre l’utilisation du « code taxon » par exemple « ERI RUB »)
+La dernière question vous permet de choisir le nombre de caractères à saisir dans le recherche des espèces avant de déclencher l’interrogation du référentiel. 3 est le minimum, 7 le maximum (pour permettre l’utilisation du « code taxon » par exemple « ERI RUB »)
 
 ![Screenshot_2021-03-18-14-27-44](../fichiers/SicenODK/ecrans/b5e63ec58773155174846b0994da66cca11de896_2_281x500.png)
 
@@ -63,7 +64,7 @@ Ici aussi, nous devrions pouvoir limiter la liste des protocoles selon l’étud
 
 ![Screenshot_2021-03-15-16-20-35](../fichiers/SicenODK/ecrans/35518d4bff33039dbf5ccbb04770e6682207d8f4_2_281x500.png)
 
-Une fois ces paramètres de « session » renseignés, nous pouvons commencer la saisie de données proprement dite.
+Une fois ces paramètres de « session » renseignés, nous pouvons commencer la saisie de données proprement dite.
 
 ### Création d’une localité
 
@@ -80,8 +81,8 @@ Le GPS peux vous aider à dessiner automatiquement lignes et contours, que vous 
 ### Saisie d’une ou plusieurs observations à cet endroit
 
 Une fois l’emplacement créé, nous allons pouvoir y créer autant d’observations que nous le souhaitons, de chacun des types d’observations autorisés dans les paramétrages du formulaire.  
-« **Pression / menace** » vous permettra de localiser et documenter une pression ou une menace sur le milieu.  
-« **Observation générale** » correspond aux jalons que vous connaissez dans Orux Maps, MapInr…, et permet de prendre une photo géolocalisées, que vous pourrez surcharger et commenter.  
+« **Pression / menace** » vous permettra de localiser et documenter une pression ou une menace sur le milieu.  
+« **Observation générale** » correspond aux jalons que vous connaissez dans Orux Maps, MapInr…, et permet de prendre une photo géolocalisées, que vous pourrez surcharger et commenter.  
 Ces observation sont aussi mobilisables dans QGIS.
 
 ![Screenshot_2021-03-15-16-20-59](../fichiers/SicenODK/ecrans/d0ac0841e88065db02ded37eeb3e93568ee93a13_2_281x500.png)
@@ -113,7 +114,7 @@ Ici pour les espèces végétales il s’agit d’un effectif par classes d’ab
 
 ![Screenshot_2021-03-15-16-21-18](../fichiers/SicenODK/ecrans/f3d3b681a63728d70ef386f0650eec9a243a46ef_2_281x500.png)
 
-### Informations sur la « qualité » de la donnée
+### Informations sur la « qualité » de la donnée
 
 Notez que l’observation pourra être retrouvée dans la navigation du formulaire, avec l’heure de l’emplacement et l’espèce observée.
 
@@ -193,11 +194,11 @@ Une fois ceci fait on peut aller au bout du formulaire et le marquer comme final
 ### XLSform
 * [xlsform](./fichiers/SicenODK/Sicen_2022.xlsx)
 * [ressources associées](./fichiers/SicenODK/referentiels_especes_et_habitats.zip)
-## Fonctionnalités de XLSForm mises en oeuvre
-* #last-saved
-* select_one
+## Fonctionnalités de XLSForm mises en œuvre
+* [#last-saved](https://docs.getodk.org/form-logic/#values-from-the-last-saved-record)
+* [select_on](https://docs.getodk.org/form-question-types/#select-appearances)
 * pulldata et fonction search() avec référentiels csv
-* widgets geographiques
+* []widgets géographiques](https://docs.getodk.org/form-question-types/#location-widgets)
 ### Discussions relatives à ce formualire sur le [forum d'ODK](https://forum.getodk.org)
 La description détaillée du formulaire (juin 2020)  :
 https://forum.getodk.org/t/odk-to-collect-species-and-habitats-localities-as-pressure-and-threats-to-ecosystems/26332
