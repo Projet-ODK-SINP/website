@@ -1,25 +1,13 @@
-Voila la description précise du formulaire réalisée par Liza ;-) :
-
-# Nom du formulaire : Formulaire PRAM (inventaire et suivi de mares)
-
-## Description : formulaire d'inventaire et suivi des mares d'Occitanie
-
+# Formulaire PRAM (Plan Régional d'Action sur les Mares)
+## Description
 ### Auteur(s)
-
--> Formulaire développé par Liza Jabbour au CEN Occitanie dans le cadre de sa formation au sein du Master 2 SIGMA (ENSAT – INP)
-
+formulaire développé par Liza Jabbour au CEN Occitanie dans le cadre de sa formation au sein du Master 2 SIGMA (ENSAT – INP)
 ### Objectif
-
 Dans le cadre du projet PRAM, le CEN Occitanie a décidé de mettre en place des outils de saisie et de suivi des mares d’Occitanie en lien avec les PRAM d’autres régions. Ce formulaire permet de saisir des fiches descriptives de mares que ce soit dans une plateforme web ou sur un terminal mobile (ODK). Ces fiches seront ensuite consultables depuis l’application web du PRAM CEN Occitanie.
 
--> Lien vers le formulaire
--> Lien vers l’application PRAM du CEN Occitanie
-
 #### Protocole mis en œuvre
-
--> lien vers le pdf ou autre ressource
-
-## Logique du formulaire
+## Présentation détaillée
+### Logique de collecte
 
 - Sélection de l’étude/protocole
 - Sélection de la structure 
@@ -56,10 +44,7 @@ Dans le cadre du projet PRAM, le CEN Occitanie a décidé de mettre en place des
 - Photos de la mare
 - Observations générales
 
-
-## Présentation détaillée
-
-
+### Captures d'écrans et/ou vidéo de démonstration
 ### Écran n°1 : page d'accueil du formulaire
 
 Le premier écran présente le formulaire dans le cadre du projet PRAM avec son logo officiel et une courte description des informations que vous pouvez renseigner.
@@ -397,19 +382,21 @@ Souhaitez-vous renseigner une nouvelle mare ? Si oui, vous serez redirigé sur u
 Vous êtes à la fin du formulaire, bravo ! Merci de votre participation !
 
 ![fin_du_formulaire](../fichiers/PRAM/ecrans/fin_du_formulaire.png)
+## Utiliser ce formulaire
+### Licence
+[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+### XLSform
+-> lien vers le fichier
+### Données externes et médias associés
+-> liens vers les ressources
 
-### Logique de collecte
-
-### Déployer le formulaire
-
-## Lien vers XLSform
-
-## Lien vers données externes et médias associés
+## Fonctionnalités de XLSForm mises en oeuvre
+Si le formulaire peut servir d'exemple dans l’utilisation de telle ou telle fonctionnalité.
+Préciser par exemple les questions ou lignes concernées et mentionner les liens vers la documentation ou les discussions correspondantes sur le forum...
+Préciser aussi si certaines aspects sont obsolètes / pourraient être améliorée aves les dernières versions d'ODK
+### Discussion en ligne sur le forum d'ODK
 
 ## Traitement des données
-
 ### Scripts SQL
-
 ### Scripts R
-
 ### Autres
