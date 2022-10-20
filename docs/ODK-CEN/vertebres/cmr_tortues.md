@@ -1,10 +1,12 @@
 # Capture, Marquage, Recapture de cistude et d'émyde lépreuse
 ![](../fichiers/cmr_cistude_emyde/images/Cistude_cgrillas.jpg)
 ## Auteur(s)
--> Vivian Inereli & Mathieu Bossaert, CEN Occitanie
-# Présentation détaillée
+formulaire développé par Vivian Inereli & Mathieu Bossaert, CEN Occitanie
+### Objectif
 Ce formulaire a pour but de remplacer les fiches d'identification et de biométrie des tortues capturées sur le terrain.
-## Logique de collecte
+
+## Présentation détaillée
+### Logique de collecte
 * renseignement de l'utilisateur
 * renseignement de la date et de l'heure
 * type de capture/piège (Nasse, verveux ou cpature incidente)
@@ -28,18 +30,21 @@ Ce formulaire a pour but de remplacer les fiches d'identification et de biométr
 * Ajout d'une nouvelle tortue : oui / non
 
 ![](../fichiers/cmr_cistude_emyde/images/Marquage_F.larnaudie.jpg)
-## Captures d'écrans et démos
+### Captures d'écrans et démos
+[voir la vidéo de démonstration](../fichiers/suivi_herbiers_lagunaires/demo_formulaire_herbiers_etangs.webm)
 ## Utiliser ce formulaire
-## XLSform
+### Licence
+[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+### XLSform
 * [xlsform](../fichiers/cmr_cistude_emyde/CMR_Cistude_captures.xlsx)
-## Données externes et médias associés
+### Données externes et médias associés
 * [dessin svg de la dossière de cistude](../fichiers/cmr_cistude_emyde/cistude_dossiere_etiquette.svg)
 * [emplacement des pièges (dégradé)](../fichiers/cmr_cistude_emyde/pieges.geojson)
 * [logo du cen](../fichiers/cmr_cistude_emyde/logo_cen.jpg)
-# Fonctionnalités de XLSForm mises en œuvre
+## Fonctionnalités de XLSForm mises en œuvre
 * [Sélection multiple sur dessin svg](https://docs.getodk.org/form-question-types/#select-from-image-widget) (carapace de la tortue) pour pointer les écailles marquées.
 * [lien web / url](https://docs.getodk.org/form-question-types/#url-widget) : chargement de photos relatives à l'individu capturée
-## Discussion en lien sur le forum d'ODK
+### Discussion en lien sur le forum d'ODK
 [mise à jour des medias externes depuis les données d'un autre formulaire (pose de pièges)](https://forum.getodk.org/t/updating-external-datasets-from-another-forms-submissions-data-from-within-a-postgresql-database/37596)
 
 
