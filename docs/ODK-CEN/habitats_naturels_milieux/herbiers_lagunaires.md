@@ -1,5 +1,3 @@
-import ReactPlayer from 'react-player'
-
 # Suivi des herbiers lagunaires (Etang de Vic)
 ## Description
 ### Auteur(s)
@@ -16,7 +14,7 @@ L'étang est découpé en mailles carrées de 100m (1787 subdivisions des maille
 * la nature du substrat en général si l'herbier est absent
 * la présence de 3 espèces ( *Ruppia cirrhosa (Petagna) Grande, 1918* ; *Zostera noltei Hornem., 1832* ; *Zostera marina L., 1753*) et d'algues
 ### Captures d'écrans et/ou vidéo de démonstration
-<ReactPlayer playing controls url='../fichiers/suivi_herbiers_lagunaires/demo_formulaire_herbiers_etangs.webm' />
+[voir la démo](../fichiers/suivi_herbiers_lagunaires/demo_formulaire_herbiers_etangs.webm)
 
 ## Utiliser ce formulaire
 ### Licence
