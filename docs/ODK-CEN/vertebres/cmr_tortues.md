@@ -31,7 +31,7 @@ Ce formulaire a pour but de remplacer les fiches d'identification et de biométr
 
 ![](../fichiers/cmr_cistude_emyde/images/Marquage_F.larnaudie.jpg)
 ### Captures d'écrans et démos
-[voir la vidéo de démonstration](../fichiers/suivi_herbiers_lagunaires/demo_formulaire_herbiers_etangs.webm)
+[voir la vidéo de démonstration](../fichiers/cmr_cistude_emyde/demo_formulaire_cistude.webm)
 ## Utiliser ce formulaire
 ### Licence
 [![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
