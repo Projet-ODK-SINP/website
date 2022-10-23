@@ -15,11 +15,9 @@ Formulaire développé par Mathieu Bossaert au CEN Occitanie
 ### Licence
 [![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
 ### XLSform
--> lien vers le fichier
-../fichiers/rozo/rozo.xlsx
+[télécharger le formulaire](../fichiers/rozo/rozo.xlsx)
 ### Données externes et médias associés
--> liens vers les ressources
-../fichiers/rozo/taxref_sicen_oiseaux.csv
+[télécharger le référentiel taxonomique utilisé](../fichiers/rozo/taxref_sicen_oiseaux.csv)
 
 ## Fonctionnalités de XLSForm mises en oeuvre
 
