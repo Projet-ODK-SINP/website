@@ -1,1 +1,1 @@
-# Suivi exhaustif d'espèces cibles (par maille carrée)
+# Inventaire exhaustif par maille carrée
