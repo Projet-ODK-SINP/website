@@ -19,7 +19,7 @@ Dans le cadre du projet PRAM, le CEN Occitanie a décidé de mettre en place des
 - Description du contexte général de la mare
 - Description du contexte précis de la mare
     - Option de protection de la biodiversité
-- élection de la périodicité de la mare
+- Sélection de la périodicité de la mare
 - Sélection des différents stades d’évolution de la mare 
 - Sélection des différents types de liaison hydrologique
 - Sélection des différents types d’alimentation en eau
