@@ -63,7 +63,7 @@ const config = {
       navbar: {
         title: 'ODKForms4biodiversity',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'ODKForms4biodiversity',
           src: 'img/logo.svg',
         },
         items: [
