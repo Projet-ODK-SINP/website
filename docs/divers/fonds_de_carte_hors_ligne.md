@@ -1,13 +1,12 @@
-# Générer des fonds de carte hpour utilisation hors-ligne dans ODK
+# Générer des fonds de carte pour utilisation hors-ligne dans ODK
 
 Voici la traduction d'un tutoriel de Florian Mayer sur le forum ODK, qui présente comment générer vos fond de cartes avec toute l'info que vous voudrez y superposer, pour aller sur le terrain avec ODK ou Oruxmaps (navigation seule)
 
-Article Original : 
-https://forum.getodk.org/t/generate-offline-background-imagery-for-odk-collect-mbtiles/31200/6
+[Article original de Florian Mayer](https://forum.getodk.org/t/generate-offline-background-imagery-for-odk-collect-mbtiles/31200/6)
 
-La documentation sur l'utilisation de fonds de carte hors lohgne dans ODK est ici : https://docs.getodk.org/collect-offline-maps/ .
+La documentation sur l'utilisation de fonds de carte hors ligne dans ODK est [ici](https://docs.getodk.org/collect-offline-maps/)
 
-Cet article est une mise en partique rapide de l'étape n°1 du [quickstart] (https://docs.getodk.org/collect-offline-maps/#offline-maps-quick-start).
+Cet article est une mise en partique rapide de l'étape n°1 du [quickstart](https://docs.getodk.org/collect-offline-maps/#offline-maps-quick-start).
 
 Les données de base sont des sources de données raster et vectorielles librement disponibles*, ainsi que des données de référence propres. (*Rappel : respectez les droits d'auteur et les conditions d'utilisation des sources de données utilisées).
 

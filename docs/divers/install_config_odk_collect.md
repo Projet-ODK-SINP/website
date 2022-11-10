@@ -1,6 +1,6 @@
-## Installation et configuration d’ODK Collect
+# Installation et configuration d’ODK Collect
 
-### Installation
+## Installation          
 
 Depuis le « playstore » d’Android ou depuis le fichier .apk mis à disposition sur le site du projet : [Release ODK Collect v2022.2.1 · getodk/collect · GitHub 8](https://github.com/getodk/collect/releases/latest)
 
@@ -8,17 +8,17 @@ Un fois téléchargé sur le téléphone (n’importe où), vous cliquez sur le 
 
 ![Capture d’écran du 2021-03-18 16-50-05](./ODK-CEN/fichiers/SicenODK/ecrans/83740995f47b0f1b5f5a167a9ab1891588257388.png) 8](https://github.com/getodk/collect/releases/latest)
 
-### Configuration de l’application
+## Configuration de l’application
 
 \*\*Important : \*\*  
 pour éviter des conflits avec les formulaires vierges déjà enregistrés sur le téléphone et des soucis d’envoi de données.  
 Commencez par supprimer les formulaires vierges existants d’ODK avant de le configurer
 
-#### Cliquer sur « supprimer formulaire enregistré »
+### Cliquer sur « supprimer formulaire enregistré »
 
 ![Screenshot_2021-03-31-19-46-55](./ODK-CEN/fichiers/SicenODK/ecrans/44016f45a86768d16ab186245f100e5c1bc4a926_2_281x500.png)
 
-#### Dans l’onglet « Formulaires vierges » , Sélectionnez tout et supprimez
+### Dans l’onglet « Formulaires vierges » , Sélectionnez tout et supprimez
 
 ![Screenshot_2021-03-31-19-47-02](./ODK-CEN/fichiers/SicenODK/ecrans/8646096ad129d96a0f9aa7eb30c9020c20935775_2_281x500.png)
 
@@ -34,17 +34,17 @@ Vous avez deux possibilités (et deux QRCode au choix):
   - télécharger les nouvelles versions
   - envoi des données au serveur
 
-#### Paramètres
+### Paramètres
 
 ![Screenshot_2021-03-11-15-28-03-576x1024](./ODK-CEN/fichiers/SicenODK/ecrans/25a1726c56451e86add3da7457de93a574756ed4_2_281x500.png)
 
-#### Configurer par QRCode
+### Configurer par QRCode
 
 ![Screenshot_2021-03-11-12-16-39-576x1024](./ODK-CEN/fichiers/SicenODK/ecrans/6570e49d139731d8718f67f9aaace6b5d6759fbe_2_281x500.png)
 
 Une fois le code scanné, votre application est configurée et interroge le serveur pour savoir quels formulaires sont disponibles, et les télécharge.
 
-#### Identité de l’utilisateur
+### Identité de l’utilisateur
 
 Il nous faut maintenant renseigner les données d’identification qui permettront de vous faire connaître une fois pour toutes dans les différents formulaires et de vous attribuer correctement vos données.
 
@@ -54,11 +54,11 @@ Il nous faut maintenant renseigner les données d’identification qui permettro
 ![metadonnees_de_formualire-576x1024](./ODK-CEN/fichiers/SicenODK/ecrans/d48fad63dbd77895fb21af0fccdb519f096a4892_2_281x500.png)
 ![Screenshot_2021-03-11-12-17-54-576x1024](./ODK-CEN/fichiers/SicenODK/ecrans/2d267abdce7d8312dbc6430a5fc2d361d9aca632_2_281x500.png)
 
-#### Cartes → Choisir Mapbox
+### Cartes → Choisir Mapbox
 
 ![Screenshot_2021-03-18-15-42-00](./ODK-CEN/fichiers/SicenODK/ecrans/2567e0a9272a95474efdb3de22e7d28c56d17e94_2_281x500.png)
 
-#### Autres paramètres utiles
+### Autres paramètres utiles
 
 De retour sur l’écran des paramètres, vous pourrez modifier :
 
