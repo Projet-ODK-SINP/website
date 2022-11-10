@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Formulaires ODK pour la conservation de la nature',
-  tagline: 'Donnez à vos protocoles un outil de collecte de données',
+  title: 'Formulaires ODK pour la biodiversité',
+  tagline: 'Donnez à vos protocoles de suivis un outil de collecte de données',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/website/',
   // Dirty build, ignore broken links for the moment
@@ -61,7 +61,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'ODK-CEN',
+        title: 'ODKForms4biodiversity',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -107,14 +107,14 @@ const config = {
             ],
           },
           {
-            title: 'Les CENs participants',
+            title: 'Les sructures participantes',
             items: [
               {
-                label: 'Occitanie',
+                label: 'CEN Occitanie',
                 to: 'https://si.cen-occitanie.org',
               },
               {
-                label: 'Nouvelle-Aquitaine',
+                label: 'CEN Nouvelle-Aquitaine',
                 to: 'https://cen-nouvelle-aquitaine.org',
               },
               {
