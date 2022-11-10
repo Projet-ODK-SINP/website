@@ -6,7 +6,7 @@ Depuis le « playstore » d’Android ou depuis le fichier .apk mis à dispositi
 
 Un fois téléchargé sur le téléphone (n’importe où), vous cliquez sur le fichier apk pour lancer l’installation. Android mettra tout au bon endroit. Vous pourrez ensuite supprimer le fichier .apk.
 
-![Capture d’écran du 2021-03-18 16-50-05](./ODK-CEN/fichiers/SicenODK/ecrans/83740995f47b0f1b5f5a167a9ab1891588257388.png) 8](https://github.com/getodk/collect/releases/latest)
+![Capture d’écran du 2021-03-18 16-50-05](../ODK-CEN/fichiers/SicenODK/ecrans/83740995f47b0f1b5f5a167a9ab1891588257388.png) 8](https://github.com/getodk/collect/releases/latest)
 
 ## Configuration de l’application
 
@@ -16,11 +16,11 @@ Commencez par supprimer les formulaires vierges existants d’ODK avant de le co
 
 ### Cliquer sur « supprimer formulaire enregistré »
 
-![Screenshot_2021-03-31-19-46-55](./ODK-CEN/fichiers/SicenODK/ecrans/44016f45a86768d16ab186245f100e5c1bc4a926_2_281x500.png)
+![Screenshot_2021-03-31-19-46-55](../ODK-CEN/fichiers/SicenODK/ecrans/44016f45a86768d16ab186245f100e5c1bc4a926_2_281x500.png)
 
 ### Dans l’onglet « Formulaires vierges » , Sélectionnez tout et supprimez
 
-![Screenshot_2021-03-31-19-47-02](./ODK-CEN/fichiers/SicenODK/ecrans/8646096ad129d96a0f9aa7eb30c9020c20935775_2_281x500.png)
+![Screenshot_2021-03-31-19-47-02](../ODK-CEN/fichiers/SicenODK/ecrans/8646096ad129d96a0f9aa7eb30c9020c20935775_2_281x500.png)
 
 Tout d’abord, la connexion au serveur de formulaires (nommé Central) se fait par le scan d’un QRcode.  
 Vous avez deux possibilités (et deux QRCode au choix):
@@ -36,11 +36,11 @@ Vous avez deux possibilités (et deux QRCode au choix):
 
 ### Paramètres
 
-![Screenshot_2021-03-11-15-28-03-576x1024](./ODK-CEN/fichiers/SicenODK/ecrans/25a1726c56451e86add3da7457de93a574756ed4_2_281x500.png)
+![Screenshot_2021-03-11-15-28-03-576x1024](../ODK-CEN/fichiers/SicenODK/ecrans/25a1726c56451e86add3da7457de93a574756ed4_2_281x500.png)
 
 ### Configurer par QRCode
 
-![Screenshot_2021-03-11-12-16-39-576x1024](./ODK-CEN/fichiers/SicenODK/ecrans/6570e49d139731d8718f67f9aaace6b5d6759fbe_2_281x500.png)
+![Screenshot_2021-03-11-12-16-39-576x1024](../ODK-CEN/fichiers/SicenODK/ecrans/6570e49d139731d8718f67f9aaace6b5d6759fbe_2_281x500.png)
 
 Une fois le code scanné, votre application est configurée et interroge le serveur pour savoir quels formulaires sont disponibles, et les télécharge.
 
@@ -50,13 +50,13 @@ Il nous faut maintenant renseigner les données d’identification qui permettro
 
 → Veillez à renseigner l’adresse mail (_**!!! votre adresse professionnelle en minuscules !!!**_).
 
-![identite_utilisateur-576x1024](./ODK-CEN/fichiers/SicenODK/ecrans/2c6b6484f465edafa797c37ab51dbf229d89b6ae_2_281x500.png)
-![metadonnees_de_formualire-576x1024](./ODK-CEN/fichiers/SicenODK/ecrans/d48fad63dbd77895fb21af0fccdb519f096a4892_2_281x500.png)
-![Screenshot_2021-03-11-12-17-54-576x1024](./ODK-CEN/fichiers/SicenODK/ecrans/2d267abdce7d8312dbc6430a5fc2d361d9aca632_2_281x500.png)
+![identite_utilisateur-576x1024](../ODK-CEN/fichiers/SicenODK/ecrans/2c6b6484f465edafa797c37ab51dbf229d89b6ae_2_281x500.png)
+![metadonnees_de_formualire-576x1024](../ODK-CEN/fichiers/SicenODK/ecrans/d48fad63dbd77895fb21af0fccdb519f096a4892_2_281x500.png)
+![Screenshot_2021-03-11-12-17-54-576x1024](../ODK-CEN/fichiers/SicenODK/ecrans/2d267abdce7d8312dbc6430a5fc2d361d9aca632_2_281x500.png)
 
 ### Cartes → Choisir Mapbox
 
-![Screenshot_2021-03-18-15-42-00](./ODK-CEN/fichiers/SicenODK/ecrans/2567e0a9272a95474efdb3de22e7d28c56d17e94_2_281x500.png)
+![Screenshot_2021-03-18-15-42-00](../ODK-CEN/fichiers/SicenODK/ecrans/2567e0a9272a95474efdb3de22e7d28c56d17e94_2_281x500.png)
 
 ### Autres paramètres utiles
 
