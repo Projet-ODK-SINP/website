@@ -4,9 +4,11 @@ sidebar_position: 1
 
 # Accueil
 
-## Vitrine des formulaires ODK mis en œuvre dans les Cen
+## Vitrine des formulaires XLSForm mis en œuvre pour la conservation de la nature
 
-Cet espace est un endroit dédié à la présentation et au partage des formulaires mis en place pour collecter des données dans le réseau des CEN. Le but étant de ne pas repartir de 0 dans le développement d'un formulaire ou d'une application mobile pour mettre en œuvre un nouveau suivi ou une nouvelle collecte de données. Mais plutôt de favoriser l'utilisation d'ODK, développé pour cela et la réutilisation, l'adaptation de formulaires XlsForm existants.
+A l'initiative des Conservatoires d'Espaces Naturels, cet espace est un endroit dédié à la présentation et au partage des formulaires mis en place pour collecter des données dans le réseau des CEN.
+Le but étant de ne pas repartir de 0 dans le développement d'un formulaire ou d'une application mobile pour mettre en œuvre un nouveau suivi ou une nouvelle collecte de données.
+Mais plutôt de favoriser l'utilisation d'ODK, développé pour cela et la réutilisation, l'adaptation de formulaires XlsForm existants.
 
 Le standard xlsform s'y prête bien. il permet en effet de copier/coller des blocs de questions d'un formulaire à un autre. Cela sera facilité en essayant de standardiser l'ordre des colonnes du fichier xlsform. Un [modèle](template_xlsform.xlsx) est proposé à cet effet, nous nous efforcerons de le respecter. A défaut il est bien sûr possible de réordonner les colonnes avant de copier,coller le bloc de questions.
 
@@ -15,5 +17,6 @@ Ces formulaires, les ressources qu'ils utilisent (référentiels, images...) ain
 ## les suivis scientifiques dans les CENs
 
 ## [ODK et le xlsform](./odk.md)
+ODK est un des outils utilisant le standart XLSForm, c'est celui que les CEN utilienst depuis 2015.
 
 ## [Les formulaires mis en oeuvre](./category/les-formulaires)
