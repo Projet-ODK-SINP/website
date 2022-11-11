@@ -29,7 +29,7 @@ const FeatureList = [
     description: (
       <>
         ODK (Open Data Kit) est un outil opensource de génération de formulaires de collecte de données pour téléphones Android.
-        D&aposautres outils utilisent XLSForm.
+        D&apos;autres outils utilisent XLSForm.
       </>
     ),
   }
