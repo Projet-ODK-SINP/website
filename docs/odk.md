@@ -20,8 +20,7 @@ Les formualires proposés ici sont mis en oeuvre par des utilisateurs de la solu
 * Éprouvé à l'échelle mondiale
 * Open source
 
-## Présentation de l'équipe
-![l'équipe qui se cache derrière ODK](./ODK-CEN/fichiers/ODK_team.png)
+Plus d'informations sur le [site de la solution](https://getodk.org)
 
 ## Quelques présentations réalisées au sujet d'ODK au CEN
 
