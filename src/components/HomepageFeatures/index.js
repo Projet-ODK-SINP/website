@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         Les formulaires sont décrits dans des feuilles de calculs dans le formalisme XLSForm.
-        Il est trés facile d&apos;adapter des formulaires existants à ses propres besoins et dans divers outils utilisant le standartXLSForm.
+        Il est trés facile d&apos;adapter des formulaires existants à ses propres besoins et dans divers outils utilisant le standardXLSForm.
       </>
     ),
   },

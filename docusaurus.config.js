@@ -94,7 +94,7 @@ const config = {
             ],
           },*/
           {
-            title: 'le standart XLSForm',
+            title: 'le standard XLSForm',
             items: [
               {
                 label: 'qu\'est-ce-que c\'est ?',

@@ -17,6 +17,6 @@ Ces formulaires, les ressources qu'ils utilisent (référentiels, images...) ain
 ## les suivis scientifiques dans les CENs
 
 ## [ODK et le xlsform](./odk.md)
-ODK est un des outils utilisant le standart XLSForm, c'est celui que les CEN utilienst depuis 2015.
+ODK est un des outils utilisant le standard XLSForm, c'est celui que les CEN utilienst depuis 2015.
 
 ## [Les formulaires mis en oeuvre](./category/les-formulaires)
