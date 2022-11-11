@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+title: Introduction
 ---
 :::info Avertissement
 Ce site et le dépot GIT associé sont une initiative de géomaticiens du réseau des Conservatoires d'Epscaes Naturels.
