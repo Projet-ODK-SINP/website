@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# [LSForm
+# XLSForm
 
 XLSForm est une norme de formulaire créée pour simplifier la création de formulaires dans Excel.
 La création se fait dans un format lisible par l'homme, à l'aide d'un outil familier que presque tout le monde connaît : Excel (ou LibreOffice).
