@@ -94,6 +94,15 @@ const config = {
             ],
           },*/
           {
+            title: 'le standart XLSForm',
+            items: [
+              {
+                label: 'qu\'est-ce-que c\'est ?',
+                href: 'https://xlsform.org/en/',
+              }
+            ],
+          },
+          {
             title: 'la communauté ODK',
             items: [
               {
