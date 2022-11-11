@@ -1,6 +1,13 @@
 ---
 sidebar_position: 3
 ---
+
+:::info Avertissement
+Ce site et le dépot GIT associé sont une initiative de géomaticiens du réseau des Conservatoires d'Epscaes Naturels.
+Il promeut ODK pour le mise en eouvre des formulaires qui y sont présentés et partagés mais est totalement indépendant du projet ODK.
+Les formualires proposés ici sont mis en oeuvre par des utilisateurs de la solution et en rien par l'équipe de GetODK
+:::
+
 # ODK - Open Data Kit
 
 ## Présentation de l'outil
