@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Formulaires ODK pour la biodiversité',
+  title: 'Formulaires XLSForm pour la biodiversité',
   tagline: 'Donnez à vos protocoles de suivis un outil de collecte de données',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/website/',
