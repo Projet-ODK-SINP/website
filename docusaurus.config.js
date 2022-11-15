@@ -61,9 +61,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'ODKForms4biodiversity',
+        title: 'biodiversityforms.org',
         logo: {
-          alt: 'ODKForms4biodiversity',
+          alt: 'XLSForm for biodiversity',
           src: 'img/logo.svg',
         },
         items: [
@@ -72,7 +72,11 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Documentation',
-          } /*,
+          } ,
+          {
+			label: 'Le dépot GitHub',
+			href: 'https://github.com/',
+		  }/*,
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',

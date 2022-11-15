@@ -10,10 +10,16 @@ tags:
 position: 2
 ---
 # Kollect taxon
-
+## Description
+### Auteur(s)
 -> formulaire développé par Thomas GACHET au CEN Nouvelle-Aquitaine
 
-## Logique du formulaire
+### Objectif
+#### Protocole mis en œuvre
+-> lien vers le pdf ou autre ressource
+
+## Présentation détaillée
+### Logique de collecte
 
 Ce formulaire est lié au portail web Kollect développé et administré par le CEN Nouvelle-Aquitaine et permet de saisir des observations naturalistes opportunistes ou liées à des inventaires et suivi simples.
 Il respecte le standard SINP.
@@ -27,10 +33,21 @@ Il respecte le standard SINP.
 - Taxons présents en France métropolitaine (TAXREF v15) + taxons ajoutés et complexes
 - Statuts des espèces
 
-## Ressources
+### Captures d'écrans et/ou vidéo de démonstration
+### Perspectives
 
+## Utiliser ce formulaire
+### Licence
+[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+### XLSform
 [xlsform](../fichiers/KollectODK/kollect_taxon/kollect_taxon_2021.xls)
+### Données externes et médias associés
+-> liens vers les ressources
 
-# OccTaxODK : formulaire conforme au Standard Occurence de taxons du SINP
+## Fonctionnalités de XLSForm mises en oeuvre
+### Discussion en ligne sur le forum d'ODK
 
-- [OccTaxODK / Occurence de Taxons](occurence_de_taxon.md) (travail en cours)
+## Traitement des données
+### Scripts SQL
+### Scripts R
+### Autres

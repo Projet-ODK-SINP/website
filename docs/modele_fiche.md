@@ -14,6 +14,7 @@ sidebar_position: 6
 ## Présentation détaillée
 ### Logique de collecte
 ### Captures d'écrans et/ou vidéo de démonstration
+### Perspectives
 
 ## Utiliser ce formulaire
 ### Licence

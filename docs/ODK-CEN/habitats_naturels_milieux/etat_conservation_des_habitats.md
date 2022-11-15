@@ -17,7 +17,7 @@ Formulaire co-développé par Nathalie Hiessler et Mathieu Bossaert au CEN Occit
 Mise en oeuvre de la méthode d'évaluation de l'état de conservation des habitats naturels (Klesczewski et al. 2010)
 
 *Mario Klesczewski, Jérémie Barret, Clément Baudot, Joseph Fleury. Evaluer l’état de conservation des habitats naturels à l’échelle du terrain : approches dans le Languedoc-Roussillon. Revue forestière française, AgroParisTech, 2010, 62 (3-4), pp.417-427. 10.4267/2042/38955.* [hal-03449686](https://hal.archives-ouvertes.fr/hal-03449686/document)
-
+ et [ici](../fichiers/etat_conservation_habitats/417_427_HD_N.pdf)
 ## Présentation détaillée
 
 ### Logique de collecte
@@ -31,7 +31,7 @@ Mise en oeuvre de la méthode d'évaluation de l'état de conservation des habit
       * Les différents indicateurs des critères de structure, de composition et de dégragation de l'habitat sont proposés à l'observateur
       * Possibilité de lister les espèces exotique et rudérales
 
-  Ce sont les valeurs brutes qui sont renseignées, et non les résultats (bon / moyen / défavorable ) de manière à pouvoir comparer les données dans le temps, si les seuils étaient amenés à changer. Les résultats (notes) sont calculés ultérieurement dans la BDD.
+Ce sont les valeurs brutes qui sont renseignées, et non les résultats (bon / moyen / défavorable ) de manière à pouvoir comparer les données dans le temps, si les seuils étaient amenés à changer. Les résultats (notes) sont calculés ultérieurement dans la BDD.
 
 ### Captures d'écrans et/ou vidéo de démonstration
 
