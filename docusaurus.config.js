@@ -75,7 +75,7 @@ const config = {
           } ,
           {
 			label: 'Le dépot GitHub',
-			href: 'https://github.com/',
+			href: 'https://projet-odk-sinp.github.io',
 		  }/*,
           {to: '/blog', label: 'Blog', position: 'left'},
           {
