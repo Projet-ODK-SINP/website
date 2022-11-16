@@ -8,8 +8,18 @@ const FeatureList = [
     Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
-        Les formulaires sont décrits dans des feuilles de calculs dans le formalisme XLSForm.
-        Il est trés facile d&apos;adapter des formulaires existants à ses propres besoins et dans divers outils utilisant le standardXLSForm.
+        Les formulaires sont décrits en XLSForm avec votre tableur préféré dans des feuilles de calculs <em>xlsx</em>.<br>
+        Il est trés facile d&apos;adapter des formulaires existants à ses propres besoins.<br>
+      </>
+    ),
+  },
+  {
+    title: 'OpenSource / mu par ODK',
+    Svg: require('@site/static/img/odk.svg').default,
+    description: (
+      <>
+        ODK (Open Data Kit) est un outil opensource de génération de formulaires pour téléphones Android.
+        D&apos;autres outils utilisent XLSForm mais ODK est celui que nous utilisons.
       </>
     ),
   },
@@ -19,17 +29,7 @@ const FeatureList = [
     description: (
       <>
         L&apos;API ODATA proposée par ODK Centralfacilite l&apos;intégration des données collectées à son système d&apos;information.
-        Avec Python (pyODK),  R (ruODK), PostgreSQL (central2pg), avec un ETL comme FME, ou kettle, QGIS...
-      </>
-    ),
-  },
-  {
-    title: 'OpenSource / mu par ODK',
-    Svg: require('@site/static/img/odk.svg').default,
-    description: (
-      <>
-        ODK (Open Data Kit) est un outil opensource de génération de formulaires de collecte de données pour téléphones Android.
-        D&apos;autres outils utilisent XLSForm.
+        Avec Python (<a hrfe="https://github.com/getodk/pyodk">pyODK</a>),  R (ruODK), PostgreSQL (central2pg), avec un ETL comme FME, ou kettle, QGIS...
       </>
     ),
   }

@@ -124,11 +124,11 @@ const config = {
             items: [
               {
                 label: 'CEN Occitanie',
-                to: 'https://si.cen-occitanie.org',
+                href: 'https://si.cen-occitanie.org',
               },
               {
                 label: 'CEN Nouvelle-Aquitaine',
-                to: 'https://cen-nouvelle-aquitaine.org',
+                href: 'https://cen-nouvelle-aquitaine.org',
               },
               {
                 label: 'la Fédération des CEN',

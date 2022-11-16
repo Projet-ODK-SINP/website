@@ -5,7 +5,8 @@ title: Suivi des populations d'orthoptéroïdes
 
 ## Description
 ### Auteur(s)
-Développé par Mathieu Bossaert (CEN Occitanie), testeur : Louis Ton
+* développé par Mathieu Bossaert (CEN Occitanie), 
+* testé par Louis Ton (CEN Occitanie)
 ### Objectif
 Suivre les populations d'Orthoptéroïdes, compter les adultes et immatures sur des placettes localisées.
 #### Protocole mis en œuvre
