@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Formulaires XLSForm pour la biodiversité',
   tagline: 'Donnez à vos protocoles de suivis un outil de collecte de données',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://biodiversityforms.org',
   baseUrl: '/website/',
   // Dirty build, ignore broken links for the moment
   // Check here : https://docusaurus.io/fr/docs/api/docusaurus-config
