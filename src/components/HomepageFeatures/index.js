@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
-        Les formulaires sont décrits en XLSForm avec votre tableur préféré dans des feuilles de calculs <em>xlsx</em>.
+        Les formulaires sont décrits en <a href="https://xlsform.org/en/">XLSForm</a> avec votre tableur préféré dans des feuilles de calculs <em>xlsx</em>.
         Il est trés facile d&apos;adapter des formulaires existants à ses propres besoins.
       </>
     ),
@@ -18,7 +18,7 @@ const FeatureList = [
     Svg: require('@site/static/img/odk.svg').default,
     description: (
       <>
-        ODK (Open Data Kit) est un outil opensource de génération de formulaires pour téléphones Android.
+        ODK (<a href="https://getodk.org">Open Data Kit</a>) est un outil opensource de génération de formulaires pour téléphones Android.
         D&apos;autres outils utilisent XLSForm mais ODK est celui que nous utilisons.
       </>
     ),
@@ -28,9 +28,9 @@ const FeatureList = [
     Svg: require('@site/static/img/odata.svg').default,
     description: (
       <>
-        L&apos;API ODATA proposée par ODK Centralfacilite l&apos;intégration des données collectées à son système d&apos;information.
+        L&apos;API <a href="https://odkcentral.docs.apiary.io/">ODATA</a> proposée par ODK Central facilite l&apos;intégration des données collectées à son système d&apos;information.
         Avec Python (<a href="https://github.com/getodk/pyodk">pyODK</a>),  R (<a href="https://github.com/ropensci/ruODK">ruODK</a>), PostgreSQL (<a href="https://github.com/mathieubossaert/central2pg">central2pg</a>), avec un ETL comme FME, 
-        ou <a href="https://github.com/schemetrica/automating-data-delivery-odk-central">kettle</a>, QGIS...
+        ou <a href="https://github.com/schemetrica/automating-data-delivery-odk-central">kettle</a>, <a href="https://plugins.qgis.org/search/?q=ODK">QGIS</a>...
       </>
     ),
   }
