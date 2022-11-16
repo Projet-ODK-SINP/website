@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
-        Les formulaires sont décrits en XLSForm avec votre tableur préféré dans des feuilles de calculs <em>xlsx</em>.<br>
-        Il est trés facile d&apos;adapter des formulaires existants à ses propres besoins.<br>
+        Les formulaires sont décrits en XLSForm avec votre tableur préféré dans des feuilles de calculs <em>xlsx</em>.
+        Il est trés facile d&apos;adapter des formulaires existants à ses propres besoins.
       </>
     ),
   },
