@@ -1,8 +1,10 @@
 ---
-id: 
-title: 
+id: CMRTortues
+title: Capture, Marquage, Recapture de cistude et d'émyde lépreuse
 tags:
-  - 
+  - CMR
+  - cistude
+  - émyde
 ---
 # Capture, Marquage, Recapture de cistude et d'émyde lépreuse
 ![](../fichiers/cmr_cistude_emyde/images/Cistude_cgrillas.jpg)
