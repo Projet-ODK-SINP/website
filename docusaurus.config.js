@@ -71,12 +71,12 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'accueil',
             position: 'left',
             label: 'Accueil'
           },
           {
-            label: 'Les formualires',
+            label: 'Les formulaires',
             to: 'docs/category/les-formulaires'
           },
           {
