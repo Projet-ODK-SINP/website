@@ -74,7 +74,7 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Accueil',
-          }
+          },
           {
             type: 'doc',
             to: 'docs/category/les-formulaires',
