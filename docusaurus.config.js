@@ -74,10 +74,14 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Documentation',
-          } ,
+          },
           {
 			label: 'Le dépot GitHub',
 			href: 'https://projet-odk-sinp.github.io',
+		  },
+          {
+			label: 'Tags',
+			href: 'https://biodiversityforms.org/docs/tags',
 		  }/*,
           {to: '/blog', label: 'Blog', position: 'left'},
           {
