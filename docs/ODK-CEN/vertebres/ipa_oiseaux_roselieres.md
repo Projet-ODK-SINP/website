@@ -1,5 +1,5 @@
 ---
-id: OIseauxILA
+id: OiseauxILA
 title: Suivis des oiseaux des roselières (\~ILA)
 tags:
   - ILA
