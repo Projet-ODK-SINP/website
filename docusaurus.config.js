@@ -73,16 +73,22 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Documentation',
+            label: 'Accueil',
+          }
+          {
+            type: 'doc',
+            to: 'docs/category/les-formulaires',
+            label: 'Les formualires',
           },
           {
 			label: 'Le dépot GitHub',
-			href: 'https://projet-odk-sinp.github.io',
+			href: 'https://projet-odk-sinp.github.io', 
+			position: 'right'
 		  },
           {
 			label: 'Tags',
 			to: 'docs/tags', 
-			position: 'right'
+			position: 'left'
 		  }/*,
           {to: '/blog', label: 'Blog', position: 'left'},
           {
