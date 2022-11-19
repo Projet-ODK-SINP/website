@@ -66,19 +66,18 @@ const config = {
         title: 'biodiversityforms.org',
         logo: {
           alt: 'XLSForm for biodiversity',
-          src: 'img/logo.svg',
+          src: 'img/logo.svg'
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Accueil',
+            label: 'Accueil'
           },
           {
-            type: 'doc',
-            to: 'docs/category/les-formulaires',
             label: 'Les formualires',
+            to: 'docs/category/les-formulaires'
           },
           {
 			label: 'Le dépot GitHub',
