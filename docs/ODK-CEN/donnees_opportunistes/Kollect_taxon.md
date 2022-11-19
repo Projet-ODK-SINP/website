@@ -7,10 +7,10 @@ tags:
   - faune
   - flore
   - fonge
-position: 2
 ---
 # Kollect taxon
 ## Description
+Saisie d'observations naturalistes opportunistes ou liées à des inventaires et suivi simples.
 ### Auteur(s)
 -> formulaire développé par Thomas GACHET au CEN Nouvelle-Aquitaine
 

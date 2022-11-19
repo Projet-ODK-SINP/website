@@ -3,17 +3,15 @@ id: FILMED
 title: FILMED
 tags:
   - lagunes
-  - physicochimie
+  - physico-chimie
 ---
 # FILMED
 Suivi des paramètres physicochimiques des lagunes méditerranéeenes
 ## Description
 ### Auteurs
-Mathieu BOSSAERT (CEN Occitanie) pour le [Pôle-relai Lagunes](https://pole-lagunes.org/)
+Développé par Mathieu BOSSAERT (CEN Occitanie) pour le [Pôle-relai Lagunes](https://pole-lagunes.org/)
 ### Objectif
-
-
-### Protocole mis en oeuvre
+### Protocole mis en œuvre
 guide de terrain FILMED
 ### Logique de collecte
 * Saisie optionnelle des conditions du relevé (météo)

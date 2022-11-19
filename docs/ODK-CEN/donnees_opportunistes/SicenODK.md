@@ -13,7 +13,7 @@ tags:
 ---
 # SiCenODK
 ## Description
-Proposer un carnet de terrain sur téléphone android, permettant de consigner ses observations et remarques
+Proposer un carnet de terrain, permettant de saisir, localiser, ses observations naturalistes et remarques
 ### Auteurs
 Mathieu BOSSAERT (CEN Occitanie)
 ### Objectif

@@ -1,3 +1,12 @@
+---
+id: OIseauxILA
+title: Suivis des oiseaux des roselières (\~ILA)
+tags:
+  - ILA
+  - Roselière
+  - Passereaux
+  - chant
+---
 # Suivis des oiseaux des roselières (\~ILA)
 
 ## Description

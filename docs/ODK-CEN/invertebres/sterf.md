@@ -1,3 +1,11 @@
+---
+id: STERF
+title: STERF (Suivi Temporel des Rhopalocères de France)
+tags:
+  - Papillons
+  - Suivi
+  - STERF
+---
 # STERF (Suivi Temporel des Rhopalocères de France)
 
 ## Logique du formulaire

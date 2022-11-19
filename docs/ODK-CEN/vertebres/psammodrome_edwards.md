@@ -1,3 +1,10 @@
+---
+id: Psammodrome
+title: Suivis "Psammodrome d'Edwards"
+tags:
+  - suivi
+  - psammodrome
+---
 # Suivis "Psammodrome d'Edwards"
 
 Formulaire développé par Nathalie Hiessler au CEN Occitanie

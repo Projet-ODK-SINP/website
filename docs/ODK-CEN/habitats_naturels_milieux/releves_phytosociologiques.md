@@ -1,11 +1,13 @@
 ---
 title: Relevés phytosociologiques
-sidebar_position: 1
+tags:
+  - phytosociologie
+  - relevés
 ---
 # Relevés phytosociologiques
 ## Description
 ### Auteur(s)
-formulaire développé au CEN Occitanie par Vivian Inereli Gomes au CEN Occitanie dans le cadre de sa formation IdGéo. Encadrée par Mathieu Bossaert
+formulaire développé par Vivian Millet au CEN Occitanie dans le cadre de sa formation IdGéo. Encadrée par Mathieu Bossaert
 ### Objectif
 Création de relevés phytosociologiques
 #### Protocole mis en oeuvre
@@ -27,7 +29,7 @@ Création de relevés phytosociologiques
 ### Données externes et médias associés
 -> liens vers les ressources
 
-## Fonctionnalités de XLSForm mises en oeuvre
+## Fonctionnalités de XLSForm mises en œuvre
 à compléter
 ### Discussion en ligne sur le forum d'ODK
 

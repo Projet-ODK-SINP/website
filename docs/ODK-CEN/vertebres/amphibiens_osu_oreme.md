@@ -1,3 +1,13 @@
+---
+id: AmphibiensOREME
+title: Suivis Amphibiens "OSU OREME"
+tags:
+  - amphibiens
+  - crapauds
+  - grenouilles
+  - mares
+  - suivi à long terme
+---
 # Suivis Amphibiens "OSU OREME"
 ## Description
 ### Auteur(s)
@@ -9,7 +19,7 @@ Mathieu BOSSAERT (Cen Occitanie)
 ## Présentation détaillée
 ### Logique de collecte
 
-* Selection de la mare 
+* Sélection de la mare 
 * Description de la mare
 * Métadonnées de la session (date, observateurs...)
 * Dénombrement précis pour les taxons suivants :

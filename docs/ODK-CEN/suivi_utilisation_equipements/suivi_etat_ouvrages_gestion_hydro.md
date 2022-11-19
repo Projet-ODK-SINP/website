@@ -1,13 +1,18 @@
 ---
-title: Suivi de l'état des ouvarges hydrauliques (martelières, échelles, vannes...)
+id: SuiviOuvragesHydro
+title: Suivi de l'état des ouvrages hydrauliques (martelières, échelles, vannes...)
+tags:
+  - Gestion hydraulique
+  - ouvrages
+  - Etat fonctionnel
 ---
+# Suivi de l'état des ouvrages hydrauliques (martelières, échelles, vannes...)
 ## Description
 ### Auteur(s)
-première version développée par Tao Joly. Seconde version en cours de développemet par Mathieu Bossaert, CEN Occitanie
+première version développée par Tao Joly. Seconde version en cours de développement par Mathieu Bossaert, CEN Occitanie
 ### Objectif
-#### Protocole mis en oeuvre
+#### Protocole mis en œuvre
 -> lien vers le pdf ou autre ressource
-
 ## Présentation détaillée
 ### Logique de collecte
 ### Captures d'écrans et/ou vidéo de démonstration
@@ -19,10 +24,8 @@ première version développée par Tao Joly. Seconde version en cours de dévelo
 -> lien vers le fichier
 ### Données externes et médias associés
 -> liens vers les ressources
-
 ## Fonctionnalités de XLSForm mises en oeuvre
 ### Discussion en ligne sur le forum d'ODK
-
 ## Traitement des données
 ### Scripts SQL
 ### Scripts R

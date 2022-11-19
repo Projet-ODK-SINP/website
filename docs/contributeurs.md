@@ -8,6 +8,7 @@ title: Les contributeurs
 * Nathalie Hiessler
 * Hugo Norel
 * Vivian Inerelli
+* Liza Jabbour
 * Tao Joly
 
 ![CEN Nouvelle-Aquitaine](./ODK-CEN/fichiers/logos/cen_na.svg)

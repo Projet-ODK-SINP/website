@@ -1,3 +1,9 @@
+---
+id: 
+title: 
+tags:
+  - 
+---
 # Capture, Marquage, Recapture de cistude et d'émyde lépreuse
 ![](../fichiers/cmr_cistude_emyde/images/Cistude_cgrillas.jpg)
 ## Auteur(s)

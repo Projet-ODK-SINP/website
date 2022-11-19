@@ -1,3 +1,11 @@
+---
+id: LezardOcellePIRA
+title: Suivis "Lézard Ocellé" (PIRA)
+tags:
+  - suivi à long terme
+  - PIRA
+  - Lézard ocellé
+---
 # Suivis "Lézard Ocellé" (PIRA)
 
 Formulaire développé par Nathalie Hiessler au CEN Occitanie

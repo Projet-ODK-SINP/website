@@ -1,3 +1,10 @@
+---
+id: DamierSuccise
+title: Suivi du Damier de la succise dans le cadre de mesures compensatoires
+tags:
+  - Damier de la succise
+  - suivi à long terme
+---
 # Suivi du Damier de la succise dans le cadre de mesures compensatoires
 
 Formulaire développé par Nathalie Hiessler au CEN Occitanie

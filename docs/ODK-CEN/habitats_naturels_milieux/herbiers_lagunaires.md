@@ -1,5 +1,13 @@
+---
+id: SuiviHerbiers
+title: Suivi des herbiers lagunaires
+tags:
+  - lagunes
+  - herbiers
+---
 # Suivi des herbiers lagunaires (Etang de Vic)
 ## Description
+Suivi de l'herbier de l'Etang de Vic (Hérault)
 ### Auteur(s)
 formulaire développé par Mathieu Bossaert au CEN Occitanie
 ### Objectif

@@ -1,6 +1,15 @@
+---
+id: SuiviMailles
+title: Inventaire exhaustif de taxons par maille carrée
+tags:
+  - inventaire exhaustif
+  - maillage
+  - flore
+---
 # Inventaire exhaustif par maille carrée
 
 ## Description
+Parcours exhaustif d'un site (mailles carrées) et suivi de l'abondance des espèces cibles sur chacune d'entre elles.
 ### Auteur(s)
 Formulaire développé par Mathieu Bossaert (CEN Occitanie)
 ### Objectif
