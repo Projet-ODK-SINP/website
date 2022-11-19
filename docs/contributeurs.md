@@ -7,7 +7,7 @@ title: Les contributeurs
 * Mathieu Bossaert
 * Nathalie Hiessler
 * Hugo Norel
-* Vivian Inerelli
+* Vivian Millet
 * Liza Jabbour
 * Tao Joly
 
