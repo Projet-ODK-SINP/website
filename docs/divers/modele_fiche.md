@@ -19,9 +19,9 @@ sidebar_position: 6
 ## Utiliser ce formulaire
 ### Licence
 choisir entre 
-[![CC-BY](./ODK-CEN/fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+[![CC-BY](../ODK-CEN/fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
 et 
-[![CC-BY-SA](./ODK-CEN/fichiers/by-sa.png)](https://creativecommons.org/licenses/by-sa/2.0/fr/)
+[![CC-BY-SA](../ODK-CEN/fichiers/by-sa.png)](https://creativecommons.org/licenses/by-sa/2.0/fr/)
 ### XLSform
 -> lien vers le fichier
 ### Données externes et médias associés
