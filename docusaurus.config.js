@@ -81,7 +81,7 @@ const config = {
 		  },
           {
 			label: 'Tags',
-			href: 'https://biodiversityforms.org/docs/tags',
+			docId: 'tags'
 		  }/*,
           {to: '/blog', label: 'Blog', position: 'left'},
           {
