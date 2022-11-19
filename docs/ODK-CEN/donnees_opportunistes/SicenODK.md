@@ -12,8 +12,8 @@ tags:
   - menaces
 ---
 # SiCenODK
+"Carnet de terrain" naturaliste, permettant de saisir et localiser  ses observations et remarques
 ## Description
-Proposer un carnet de terrain, permettant de saisir, localiser, ses observations naturalistes et remarques
 ### Auteurs
 Mathieu BOSSAERT (CEN Occitanie)
 ### Objectif
