@@ -9,6 +9,6 @@ C'est une trés bonne idée !
 Explications à venir
 ### Nous envoyer votre contribution
 elle doit contenir :
-* un fichier markdown fidèle au [modèle de fiche](./modele_fiche.md)
+* un fichier markdown fidèle au [modèle de fiche](./divers/modele_fiche.md)
 * le fichier xlsform et les médias associés
 * tout autre élément utile
