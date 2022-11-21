@@ -2,11 +2,11 @@
 id: orthopteroides
 title: Suivi des populations d'orthoptéroïdes
 tags:
-  - Insecta
+  - Insectes
   - orthoptèroïdes
 ---
 # Nom du formulaire
-
+Suivi des populations d'orthoptéroïdes
 ## Description
 ### Auteur(s)
 * développé par Mathieu Bossaert (CEN Occitanie), 

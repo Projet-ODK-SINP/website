@@ -3,8 +3,10 @@ id: CMRTortues
 title: Capture, Marquage, Recapture de cistude et d'émyde lépreuse
 tags:
   - CMR
-  - cistude
-  - émyde
+  - Cistude d'europe
+  - Emys Orbicularis
+  - Emyde lépreuse
+  - Mauremys leprosa
 ---
 # Capture, Marquage, Recapture de cistude et d'émyde lépreuse
 ![](../fichiers/cmr_cistude_emyde/images/Cistude_cgrillas.jpg)

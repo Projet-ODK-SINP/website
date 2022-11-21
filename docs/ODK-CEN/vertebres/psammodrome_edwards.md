@@ -3,9 +3,10 @@ id: Psammodrome
 title: Suivis "Psammodrome d'Edwards"
 tags:
   - suivi
-  - psammodrome
+  - Psammodrome d'Edwards
+  - Psammodromus edwarsianus
 ---
-# Suivis "Psammodrome d'Edwards"
+# Suivis ["Psammodrome d'Edwards"](https://inpn.mnhn.fr/espece/cd_nom/699479)
 
 Formulaire développé par Nathalie Hiessler au CEN Occitanie
 

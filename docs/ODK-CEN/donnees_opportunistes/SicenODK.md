@@ -7,7 +7,7 @@ tags:
   - faune
   - flore
   - fonge
-  - habitats
+  - habitats naturels
   - pressions
   - menaces
 ---

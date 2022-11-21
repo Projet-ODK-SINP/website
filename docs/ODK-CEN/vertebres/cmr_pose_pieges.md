@@ -5,6 +5,9 @@ tags:
   - Cistude d'europe
   - CMR
   - nasses
+  - Emyde lépreuse
+  - Mauremys leprosa
+  - GPS
 ---
 # CMR Pose / géoréférencement des pièges
 ## Description
