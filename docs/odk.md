@@ -4,14 +4,17 @@ sidebar_position: 3
 ---
 
 :::info Avertissement
-Ce site et le dépot GIT associé sont une initiative de géomaticiens du réseau des Conservatoires d'Espaces Naturels.
-Il promeut ODK pour le mise en oeuvre des formulaires qui y sont présentés et partagés mais est totalement indépendant du projet ODK.
-Les formualires proposés ici sont mis en oeuvre par des utilisateurs de la solution et en rien par l'équipe de GetODK
+Ce site et le dépôt Git associé sont une initiative de géomaticiens du réseau des Conservatoires d'Espaces Naturels.
+Il promeut ODK pour le mise en œuvre des formulaires qui y sont présentés et partagés mais est totalement indépendant du projet ODK.
+Les formulaires proposés ici sont mis en œuvre par des utilisateurs de la solution et en rien par l'équipe de GetODK
 :::
 
 # ODK - Open Data Kit
+C'est l'outil que nous utilisons depuis 2015 pour servir les formualires sur nos téléphones de terrain. 
 
 ## Présentation de l'outil
+texte repris de la page d'accueil du site [https://getodk.org](https://getodk.org)
+
 ### La norme pour la collecte de données mobiles
 * Créez des formulaires puissants
 * Collectez des données hors ligne
@@ -29,6 +32,8 @@ Plus d'informations sur le [site de la solution](https://getodk.org)
 * https://si.cen-occitanie.org/wp-content/uploads/2022/06/CEN_Occitanie_SI_PostGIS_ODK.pdf
 
 ## ODK au sein du SI
+ODK est au coeur de notre SI, c'est le point d'entrée principal des données du CEN Occitanie.
+
 ![ODK dans le SI](./ODK-CEN/fichiers/odk_si_du_cen.svg)
 
 Exemple de l'importance d'ODK dans la collecte de données au CEN Occitanie
