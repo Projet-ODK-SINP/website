@@ -3,7 +3,6 @@ title: Accueil
 sidebar_position: 1
 ---
 ![](./ODK-CEN/fichiers/Suivi_herbiers_Guilhem_LdT_310518_MKlesczewski.JPG)
-
 :::info Avertissement
 Ce site et le dépot GIT associé sont une initiative de géomaticiens du réseau des Conservatoires d'Epsaces Naturels.
 Il fait la promotion d'ODK pour le mise en eouvre des formulaires présentés et partagés mais est totalement indépendant du projet ODK.
@@ -26,3 +25,8 @@ Ces formulaires, les ressources qu'ils utilisent (référentiels, images...) ain
 ODK est un des outils utilisant le standard XLSForm, c'est celui que les CEN utilisent depuis 2015.
 
 ## [-> Les formulaires mis en oeuvre <-](./category/les-formulaires)
+
+
+:::info Crédit photo 
+crédit photo Mario Klesczewski
+:::
