@@ -19,12 +19,12 @@ Un [modèle](template_xlsform.xlsx) est proposé à cet effet, nous nous efforce
 
 Ces formulaires, les ressources qu'ils utilisent (référentiels, images...) ainsi que les protocoles auxquels ils sont associés seront téléchargeables.
 
-## les suivis scientifiques dans les CENs
+:::info
+les descriptions de formulaires sont en cours de rédaction et nous allons tâcher de les illustrer le mieux possible
+:::
 
-## [XLSForm et ODK](./odk.md)
-ODK est un des outils utilisant le standard XLSForm, c'est celui que les CEN utilisent depuis 2015.
 
-## [-> Les formulaires mis en oeuvre <-](./category/les-formulaires)
+## [-> Voir les formulaires <-](./category/les-formulaires)
 
 
 :::info Crédit photo 
