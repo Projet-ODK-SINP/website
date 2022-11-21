@@ -1,8 +1,9 @@
 ---
+title: Accueil
 sidebar_position: 1
 ---
 ![](./ODK-CEN/fichiers/Suivi_herbiers_Guilhem_LdT_310518_MKlesczewski.JPG)
-# Accueil
+
 :::info Avertissement
 Ce site et le dépot GIT associé sont une initiative de géomaticiens du réseau des Conservatoires d'Epsaces Naturels.
 Il fait la promotion d'ODK pour le mise en eouvre des formulaires présentés et partagés mais est totalement indépendant du projet ODK.
