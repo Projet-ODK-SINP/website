@@ -28,5 +28,5 @@ ODK est un des outils utilisant le standard XLSForm, c'est celui que les CEN uti
 
 
 :::info Crédit photo 
-crédit photo Mario Klesczewski
+Mario Klesczewski
 :::
