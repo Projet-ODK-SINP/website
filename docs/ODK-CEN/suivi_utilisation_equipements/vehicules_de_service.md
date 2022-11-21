@@ -2,8 +2,9 @@
 id: UtilisationVoituresDeService
 title: Utilisation des véhicules de service
 tags:
-  - Voiture
+  - voiture
   - kilométrage
+  - voitures de service
   - matériel
 ---
 # Utilisation des véhicules de service
