@@ -152,7 +152,7 @@ Si non il nous est proposé d’ajouter une nouvelle localité
 ![Screenshot_2021-03-15-16-23-01](../fichiers/SicenODK/ecrans/b592a1c18e3db81b5c6fb56d32d15546eaa150b9_2_281x500.png)
 
 Si oui on revient à l’ajout d’une localité (point, ligne ou polygone)  
-Si non, on finalise le formualire en renseignant la présence d’éventuels accompagnateurs
+Si non, on finalise le formulaire en renseignant la présence d’éventuels accompagnateurs
 
 ### Renseignement des accompagnateurs éventuels
 
@@ -201,7 +201,7 @@ Une fois ceci fait on peut aller au bout du formulaire et le marquer comme final
 * [select_on](https://docs.getodk.org/form-question-types/#select-appearances)
 * pulldata et fonction search() avec référentiels csv
 * []widgets géographiques](https://docs.getodk.org/form-question-types/#location-widgets)
-### Discussions relatives à ce formualire sur le [forum d'ODK](https://forum.getodk.org)
+### Discussions relatives à ce formulaire sur le [forum d'ODK](https://forum.getodk.org)
 La description détaillée du formulaire (juin 2020)  :
 https://forum.getodk.org/t/odk-to-collect-species-and-habitats-localities-as-pressure-and-threats-to-ecosystems/26332
 

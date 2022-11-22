@@ -6,7 +6,7 @@ sidebar_position: 1
 :::info Avertissement
 Ce site et le dépot GIT associé sont une initiative de géomaticiens du réseau des Conservatoires d'Epsaces Naturels.
 Il fait la promotion d'ODK pour le mise en eouvre des formulaires présentés et partagés mais est totalement indépendant du projet ODK.
-Les formualires proposés ici sont mis en oeuvre par des utilisateurs de la solution et en rien par l'équipe de GetODK
+Les formulaires proposés ici sont mis en oeuvre par des utilisateurs de la solution et en rien par l'équipe de GetODK
 :::
 ## Vitrine des formulaires XLSForm mis en œuvre pour la conservation de la nature
 
