@@ -15,7 +15,7 @@ title: Les contributeurs
 * Thomas Gachet
 * Rémy Lebrun
 
-![ANA-CEN Ariège](./ODK-CEN/fichiers/logos/Ana-Cen-ariège_CPIE.jpg)
+![ANA-CEN Ariège](./ODK-CEN/fichiers/logos/Ana_Cen_Ariege_CPIE.jpg)
 * Yann Voté
 * Alexis Heras
 * Cédric Roy
