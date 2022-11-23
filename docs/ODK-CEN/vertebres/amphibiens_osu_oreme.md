@@ -15,7 +15,6 @@ Mathieu BOSSAERT (Cen Occitanie)
 ### Objectif
 #### Protocole mis en œuvre
 * [Protocole](../fichiers/mare_amphibiens_OSU_OREME/Programme_mare_amphibiens_OSU_OREME_1.pdf)
--> lien vers le pdf ou autre ressource
 ## Présentation détaillée
 ### Logique de collecte
 
