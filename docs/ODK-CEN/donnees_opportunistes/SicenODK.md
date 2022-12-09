@@ -198,7 +198,7 @@ Une fois ceci fait on peut aller au bout du formulaire et le marquer comme final
 * [ressources associées](../fichiers/SicenODK/referentiels_especes_et_habitats.zip)
 ## Fonctionnalités de XLSForm mises en œuvre
 * [#last-saved](https://docs.getodk.org/form-logic/#values-from-the-last-saved-record)
-* [select_on](https://docs.getodk.org/form-question-types/#select-appearances)
+* [select_one](https://docs.getodk.org/form-question-types/#select-appearances)
 * pulldata et fonction search() avec référentiels csv
 * []widgets géographiques](https://docs.getodk.org/form-question-types/#location-widgets)
 ### Discussions relatives à ce formulaire sur le [forum d'ODK](https://forum.getodk.org)
