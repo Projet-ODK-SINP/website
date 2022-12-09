@@ -194,8 +194,8 @@ Une fois ceci fait on peut aller au bout du formulaire et le marquer comme final
 ### Licence
 [![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
 ### XLSform
-* [xlsform](./fichiers/SicenODK/Sicen_2022.xlsx)
-* [ressources associées](./fichiers/SicenODK/referentiels_especes_et_habitats.zip)
+* [xlsform](../fichiers/SicenODK/Sicen_2022.xlsx)
+* [ressources associées](../fichiers/SicenODK/referentiels_especes_et_habitats.zip)
 ## Fonctionnalités de XLSForm mises en œuvre
 * [#last-saved](https://docs.getodk.org/form-logic/#values-from-the-last-saved-record)
 * [select_on](https://docs.getodk.org/form-question-types/#select-appearances)

@@ -29,9 +29,9 @@ L'étang est découpé en mailles carrées de 100m (1787 subdivisions des maille
 ### Licence
 [![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
 ### XLSform
-[xlsform et medias](../fichiers/suivi_herbiers_lagunaires)
+[xlsform](../fichiers/suivi_herbiers_lagunaires/inventaire_herbiers_etangs.xlsx)
 ### Données externes et médias associés
--> liens vers les ressources
+[fichier geojson associé](../fichiers/suivi_herbiers_lagunaires/mailles_100m_etang.geojson)
 
 ## Fonctionnalités de XLSForm mises en oeuvre
 Le formulaire utilise le widget [select-one-from-map-widget](https://docs.getodk.org/form-question-types/#select-one-from-map-widget) pour la sélection de la maille (son centroïde actuellement). Cela permet à l'utilisateur de voir sa progression car les mailles visitées sont cachées lors de la sélection.

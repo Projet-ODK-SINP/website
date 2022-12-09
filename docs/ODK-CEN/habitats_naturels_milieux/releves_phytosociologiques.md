@@ -24,10 +24,10 @@ Création de relevés phytosociologiques
 ### Licence
 [![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
 ### XLSform
-[xlsform et medias](../fichiers/releves_phytosociologiques)
+[xlsform](../fichiers/releves_phytosociologiques/phytosocio.xlsx)
 
 ### Données externes et médias associés
--> liens vers les ressources
+[médias et csv](../fichiers/releves_phytosociologiques/medias.zip)
 
 ## Fonctionnalités de XLSForm mises en œuvre
 à compléter
