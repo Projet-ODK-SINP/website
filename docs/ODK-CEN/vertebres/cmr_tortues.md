@@ -44,7 +44,7 @@ Ce formulaire a pour but de remplacer les fiches d'identification et de biométr
 [voir la démonstration](../fichiers/cmr_cistude_emyde/demo_formulaire_cistude.webm)
 ## Utiliser ce formulaire
 ### Licence
-[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+[![CC-BY](../fichiers/by.png)](https://creativecommons.org/licenses/by/2.0/fr/)
 ### XLSform
 * [xlsform](../fichiers/cmr_cistude_emyde/CMR_Cistude_captures.xlsx)
 ### Données externes et médias associés
