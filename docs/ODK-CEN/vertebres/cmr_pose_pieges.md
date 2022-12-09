@@ -24,7 +24,7 @@ Ce formulaire, utilisé le premier jour, permettra de mettre à jour le référe
 ### Captures d'écrans et/ou vidéo de démonstration
 ## Utiliser ce formulaire
 ### Licence
-[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+[![CC-BY](../fichiers/by.png)](https://creativecommons.org/licenses/by/2.0/fr/)
 ### XLSform
 [télécharger le formuliare](../fichiers/cmr_pose_pieges/CMR_Cistude_pose_pieges.xlsx)
 ### Données externes et médias associés

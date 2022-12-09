@@ -49,7 +49,7 @@ Toutes les ressources sont disponibles ici : 
 * notamment le guide d’installation et de première utilisation de l’application ODK Collect ([Guide-premiere-utilisation-ODK.pdf](../fichiers/arzaa_formbenevole/Guide-premiere-utilisation-ODK.pdf)) 
 * et le guide d’utilisation du formulaire ([../fichiers/arzaa_formbenevole/Guide-utilisation-formulaire.pdf)) 
 ### Licence
-[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+[![CC-BY](../fichiers/by.png)](https://creativecommons.org/licenses/by/2.0/fr/)
 ### XLSform
 [télécharger le formuliare](../fichiers/arzaa_formbenevole/atlas_papillons_altitude_formulaire_benevole.xlsx)
 ### Données externes et médias associés 

@@ -39,7 +39,7 @@ Il respecte le standard SINP.
 
 ## Utiliser ce formulaire
 ### Licence
-[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+[![CC-BY](../fichiers/by.png)](https://creativecommons.org/licenses/by/2.0/fr/)
 ### XLSform
 [xlsform](../fichiers/kollect_taxon/kollect_taxon_2021.xls)
 ### Données externes et médias associés

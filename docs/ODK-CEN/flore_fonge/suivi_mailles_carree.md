@@ -26,7 +26,7 @@ La taille de la maille carrée ainsi que la liste d'espèces sont définies en a
 
 ## Utiliser ce formulaire
 ### Licence
-[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+[![CC-BY](../fichiers/by.png)](https://creativecommons.org/licenses/by/2.0/fr/)
 ### XLSform
 * [xlsform](../fichiers/suivis_mailles_bota/suivi_maille_bota.xlsx)
 ### Données externes et médias associés

@@ -392,7 +392,7 @@ Vous êtes à la fin du formulaire, bravo ! Merci de votre participation !
 ![fin_du_formulaire](../fichiers/PRAM/ecrans/fin_du_formulaire.png)
 ## Utiliser ce formulaire
 ### Licence
-[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+[![CC-BY](../fichiers/by.png)](https://creativecommons.org/licenses/by/2.0/fr/)
 ### XLSform
 -> lien vers le fichier
 ### Données externes et médias associés

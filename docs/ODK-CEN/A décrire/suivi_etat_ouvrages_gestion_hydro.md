@@ -19,7 +19,7 @@ première version développée par Tao Joly. Seconde version en cours de dévelo
 
 ## Utiliser ce formulaire
 ### Licence
-[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+[![CC-BY](../fichiers/by.png)](https://creativecommons.org/licenses/by/2.0/fr/)
 ### XLSform
 -> lien vers le fichier
 ### Données externes et médias associés
