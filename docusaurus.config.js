@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   // Dirty build, ignore broken links for the moment
   // Check here : https://docusaurus.io/fr/docs/api/docusaurus-config
-  onBrokenLinks: 'ignore',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/favicon.ico',
 
