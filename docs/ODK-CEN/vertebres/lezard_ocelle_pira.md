@@ -25,8 +25,10 @@ Formulaire développé par Nathalie Hiessler au CEN Occitanie
 
 ## Ressources
 
-* [xlsform et medias](../fichiers/lezard_ocelle_pira/xlsform_et_medias/)
-* [protocole](..//fichiers/lezard_ocelle_pira/protocole_et_fichier_modeles/)
+* [xlsform](../fichiers/lezard_ocelle_pira/xlsform_et_medias/form_saisie_prtc_pira_Lo_pr_github.xlsx)
+* [csv associés](../fichiers/lezard_ocelle_pira/xlsform_et_medias/csv_pira_lo.zip)
+* [protocole](../fichiers/lezard_ocelle_pira/protocole_et_fichier_modeles/techniques inventaire Lezard ocelle.pdf)
+* [modèle de saisie tableur](../fichiers/lezard_ocelle_pira/protocole_et_fichier_modeles/modele_saisie_Lo_rappels_protocole.xls)
 
 ## Présentation détaillée
 

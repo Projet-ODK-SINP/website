@@ -17,7 +17,8 @@ Ce formulaire a été conçu afin de suivre la répartition du Crabe bleu Callin
 
 ## Ressources
 
-[xlsform et medias](../fichiers/CrabeBleu)
+* [xlsform](../fichiers/crabe_bleu/Crabe_bleu.xlsx)
+* [medias et csv des communes](../fichiers/crabe_bleu/crabe_bleu.zip)
 Liens vers documentation Crabe bleu / plus d'informations sur l'espèce à retrouver sur :
 
 - [https //pole-lagunes.org](https://pole-lagunes.org/en-action/coord-crabe-bleu)

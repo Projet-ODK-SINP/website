@@ -100,4 +100,25 @@ De même tout au long de la session vous pouvez forcer l’enregistrement des do
 
 ### Envoi des données au serveur
 
-Les versions récentes d'ODK envoient automatiquement les formulaires finalisés au
+Les versions récentes d'ODK envoient automatiquement les formulaires finalisés au serveur
+
+### Perspectives
+* Utiliser l'apparence **map** pour afficher et selectionner les stations et ouvragges sur la carte.
+* Afficher la dernière valeur mesurée (entités et datasets)
+
+## Utiliser ce formulaire
+### Licence
+[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+### XLSform
+* [xlsform](../fichiers/filmed/suivi_filmed.xlsx)
+### Données externes et médias associés
+
+## Fonctionnalités de XLSForm mises en oeuvre
+### Discussion en ligne sur le forum d'ODK
+* calcul de la côte prévue dans le plan de gestion : https://forum.getodk.org/t/indexed-repeat-error-is-there-a-maximum-length-for-a-statement-in-xlsform-cells/34571
+* afficher la station selectionnée sur la carte et confirmer que c'est bien celle à côté de laquelle nous nous trouvons : https://forum.getodk.org/t/default-geopoint-using-select-one-and-calculate/34910/4?u=mathieubossaert
+-> à remlplacer par un select_one avec une apparence de carte (map)
+## Traitement des données
+### Scripts SQL
+### Scripts R
+### Autres

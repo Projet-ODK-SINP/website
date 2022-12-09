@@ -41,7 +41,7 @@ Il respecte le standard SINP.
 ### Licence
 [![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
 ### XLSform
-[xlsform](../fichiers/KollectODK/kollect_taxon/kollect_taxon_2021.xls)
+[xlsform](../fichiers/kollect_taxon/kollect_taxon_2021.xls)
 ### Données externes et médias associés
 -> liens vers les ressources
 

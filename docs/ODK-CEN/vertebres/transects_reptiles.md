@@ -26,7 +26,7 @@ Formulaire développé par Nathalie Hiessler au CEN Occitanie
 * Remarque en saisie libre
 
   ## Ressources
-* [xlsform](.fichiers/transects_reptiles/form_saisie_prtc_transects_reptiles.xls)
+* [xlsform](../fichiers/transects_reptiles/form_saisie_prtc_transects_reptiles.xls)
 * protocole = standard suivis des reptiles par transect, avec ou sans plaque. Possibilité de renseigner un identifiant de plaque dans le champs remarque de l'observation.
 
 ## Présentation détaillée

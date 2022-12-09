@@ -48,7 +48,7 @@ Ce sont les valeurs brutes qui sont renseignées, et non les résultats (bon / m
 
 * [liste espèces plantes](../fichiers/etat_conservation_habitats/especes_plantes.csv)
 * [liste habitats CORINE](../fichiers/etat_conservation_habitats/taxref_sicen_habitat.csv)
-* [centrides de polygon pour select_one sur carte](../fichiers/etat_conservation_habitats/centroides_polygones_habitats.csv)
+* [centroïdes de polygones pour select_one sur carte](../fichiers/etat_conservation_habitats/centroides_polygones_habitats.csv)
 
 ## Fonctionnalités de XLSForm mises en œuvre
 
