@@ -38,7 +38,7 @@ Ce sont les valeurs brutes qui sont renseignées, et non les résultats (bon / m
 ## Utiliser ce formulaire
 ### Licence
 
-[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+[![CC-BY](../fichiers/by.png)](https://creativecommons.org/licenses/by/2.0/fr/)
 
 ### XLSform
 

@@ -31,7 +31,7 @@ Faciliter l'affectation des coûts au projets concernés, en lien avec l'interfa
 
 ## Utiliser ce formulaire
 ### Licence
-[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+[![CC-BY](../fichiers/by.png)](https://creativecommons.org/licenses/by/2.0/fr/)
 ### XLSform
 [xlsform](../fichiers/vehicules_service/saisie_km_voitures_service_v2022.xlsx)
 ### Données externes et médias associés
