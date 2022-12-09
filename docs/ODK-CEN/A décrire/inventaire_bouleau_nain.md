@@ -20,7 +20,7 @@ Formulaire développé par Mathieu Bossaert (CEN Occitanie)
 ### Perspectives
 ## Utiliser ce formulaire
 ### Licence
-[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+[![CC-BY](../fichiers/by.png)](https://creativecommons.org/licenses/by/2.0/fr/)
 ### XLSform
 ### Données externes et médias associés
 ## Fonctionnalités de XLSForm mises en oeuvre

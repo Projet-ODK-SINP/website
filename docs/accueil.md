@@ -15,7 +15,7 @@ Le but étant de ne pas repartir de 0 dans le développement d'un formulaire ou 
 Mais plutôt de favoriser l'utilisation d'ODK, développé pour cela et la réutilisation, l'adaptation de formulaires XLSForm existants.
 
 Le standard XLSForm s'y prête bien. Il permet en effet de copier/coller des blocs de questions d'un formulaire à un autre. Cela sera facilité en essayant de standardiser l'ordre des colonnes du fichier XLSForm.
-Un [modèle](template_xlsform.xlsx) est proposé à cet effet, nous nous efforcerons de le respecter. A défaut il est bien sûr possible de réordonner les colonnes avant de copier,coller le bloc de questions.
+Un [modèle](./docs/ODK-CEN/fichiers/template.xlsx) est proposé à cet effet, nous nous efforcerons de le respecter. A défaut il est bien sûr possible de réordonner les colonnes avant de copier,coller le bloc de questions.
 
 Ces formulaires, les ressources qu'ils utilisent (référentiels, images...) ainsi que les protocoles auxquels ils sont associés seront téléchargeables.
 
