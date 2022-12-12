@@ -126,7 +126,7 @@ const config = {
                 href: 'https://forum.getodk.org/',
               },
               {
-                label: 'GetODK',
+                label: 'ODK',
                 href: 'https://www.getodk.org/',
               }
             ],
