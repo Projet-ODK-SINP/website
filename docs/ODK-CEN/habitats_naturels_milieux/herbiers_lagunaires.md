@@ -27,7 +27,7 @@ L'étang est découpé en mailles carrées de 100m (1787 subdivisions des maille
 
 ## Utiliser ce formulaire
 ### Licence
-[![CC-BY](../fichiers/by.png)]((https://creativecommons.org/licenses/by/2.0/fr/))
+[![CC-BY](../fichiers/by.png)](https://creativecommons.org/licenses/by/2.0/fr/)
 ### XLSform
 [xlsform](../fichiers/suivi_herbiers_lagunaires/inventaire_herbiers_etangs.xlsx)
 ### Données externes et médias associés

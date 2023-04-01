@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 title: Contribuer !
 ---
 # Rejoignez la liste des contributeurs et partagez vos formulaires
