@@ -149,7 +149,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Réseau des Conservatoires d'espaces naturels - ${new Date().getFullYear()} - Construit avec Docusaurus<br>Crédits cliparts utilisés dans le logo : @Exocet (https://openclipart.org/artist/Exocet) & Joseph El-Khouri (https://commons.wikimedia.org/wiki/File:Basic_Notebook.svg), CC BY 3.0 US, via Wikimedia Commons`
+        copyright: `Réseau des Conservatoires d'espaces naturels - ${new Date().getFullYear()}`
       },
       prism: {
         theme: lightCodeTheme,
