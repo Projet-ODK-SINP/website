@@ -20,7 +20,7 @@ Mathieu BOSSAERT (CEN Occitanie)
 ### Licence
 [![CC-BY](../fichiers/by.png)](https://creativecommons.org/licenses/by/2.0/fr/)
 ### XLSform
-* [xlsform](../fichiers/SicenODK/ODKWaypoints.xlsx)
+* [xlsform](../fichiers/ODKWaypoints/ODKWaypoints.xlsx)
 ### Données externes et médias associés
 -> liens vers les ressources
 
