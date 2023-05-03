@@ -87,25 +87,31 @@ Si vous avez correctement configuré les métadonnées du projet (cf plus haut) 
 
 ![14_localisation_automatique](../fichiers/suivis_mailles_bota/ecrans/14_localisation_automatique.png)
 
-##### Affiche votre fond de carte (en lieu et place de celui par défaut
+
+##### Afficher votre fond de carte (en lieu et place de celui par défaut
 1. Cliquer sur l’icône représentant les couches
 2. Choisissez votre fond de carte
 
 ![15_choix_du_fond_de_carte_personalise](../fichiers/suivis_mailles_bota/ecrans/15_choix_du_fond_de_carte_personalise.png)
+
 ![16_creation_du_point](../fichiers/suivis_mailles_bota/ecrans/16_creation_du_point.png)
 
 3. Valider la localité
 
 ![17_detail_point_cree](../fichiers/suivis_mailles_bota/ecrans/17_detail_point_cree.png)
 
+
 ##### Renseignement de l'abondance de la ou des espèces (selon les sites)
 
 ![18_renseignement_effectifs_especes](../fichiers/suivis_mailles_bota/ecrans/18_renseignement_effectifs_especes.png)
 
+
 ##### Ajouter une nouvelle maille / localité ou terminer le formulaire
 
 ![19_nouvelle_maille_ou_fin_de_session](../fichiers/suivis_mailles_bota/ecrans/19_nouvelle_maille_ou_fin_de_session.png)
+
 ![20_fin_de_session](../fichiers/suivis_mailles_bota/ecrans/20_fin_de_session.png)
+
 ### Perspectives
 * Disposer d'un formulaire plus générique ne générant pas autant de quesions que d'espèces suivies, pour faciliter le traitement des données collectées.
 * Utiliser l'apparence **map** pour afficher et sélectionner les mailles sur la carte, et faciliter la navigation sur le site, comme on le fait dans le suivi des herbiers.
