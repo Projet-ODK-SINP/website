@@ -2,13 +2,15 @@
 title: Récupération des données dans PostgreSQL
 sidebar_position: 4
 ---
+![logo postgresql|50%](https://www.postgresql.org/media/img/about/press/slonik_with_black_text_and_tagline.gif)
 # Comment récupérer ses données dans une base de données préexistante
-## ETL
+## Avec un ETL
 Ce se des outils d'extraction, de transformation et de chargement de données (Extract Transform and Load)
-### Kettle
+ * Kettle
 https://forum.getodk.org/t/automating-data-delivery-using-the-odata-endpoint-in-odk-central/22010
-### FME
+ *  FME
 ## Depuis PostgreSQL
+En utilisant des bibliothèques de fonctions dédiées.
 ### pl-pyODK
 C'est une évolution de central2pg présenté ci-dessous.
 pl-pyODK utilise des fonctions [pyODK](https://github.com/getodk/pyodk) dans des fonctions pl/pgsql et permet de filter les données récupérées depuis le serveur d'ODK
