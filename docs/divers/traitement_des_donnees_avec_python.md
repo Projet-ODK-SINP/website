@@ -2,7 +2,7 @@
 title: Traitement des données avec Python
 sidebar_position: 5
 ---
-![logo python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
+![logo python](../ODK-CEN/fichiers/logos/logo_python.png)
 # pyODK
 > C'est un client pour l'API d'ODK Central. Utilisez-le pour interagir avec vos données et automatiser des tâches courantes avec Python.
 > 

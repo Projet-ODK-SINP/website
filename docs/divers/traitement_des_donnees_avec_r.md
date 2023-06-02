@@ -2,7 +2,7 @@
 title: Traitement des données avec R
 sidebar_position: 6
 ---
-![logo R|50%](https://www.r-project.org/logo/Rlogo.png)
+![logo R](../ODK-CEN/fichiers/logos/logo_r.png)
 # RuODK
 -> https://github.com/ropensci/ruODK
 

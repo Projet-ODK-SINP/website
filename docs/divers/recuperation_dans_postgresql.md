@@ -2,7 +2,7 @@
 title: Récupération des données dans PostgreSQL
 sidebar_position: 4
 ---
-![logo postgresql|50%](https://www.postgresql.org/media/img/about/press/slonik_with_black_text_and_tagline.gif)
+![logo postgresql|50%](../ODK-CEN/fichiers/logos/logo_postgresql.png)
 # Comment récupérer ses données dans une base de données préexistante
 ## Avec un ETL
 Ce se des outils d'extraction, de transformation et de chargement de données (Extract Transform and Load)
