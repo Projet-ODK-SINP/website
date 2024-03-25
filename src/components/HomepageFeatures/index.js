@@ -18,7 +18,7 @@ const FeatureList = [
     Svg: require('@site/static/img/odk.svg').default,
     description: (
       <>
-        ODK (<a href="https://getodk.org">Open Data Kit</a>) est un outil opensource de génération de formulaires pour téléphones Android.
+        ODK (<a href="https://getodk.org">ODK</a>) est un outil opensource de génération de formulaires pour téléphones Android.
         D&apos;autres outils utilisent XLSForm mais ODK est celui que nous utilisons.
       </>
     ),

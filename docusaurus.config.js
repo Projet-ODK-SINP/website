@@ -122,12 +122,16 @@ const config = {
             title: 'la communauté ODK',
             items: [
               {
+                label: 'Website d\'ODK',
+                href: 'https://www.getodk.org/',
+              },
+              {
                 label: 'Forum d\'ODK',
                 href: 'https://forum.getodk.org/',
               },
               {
-                label: 'GetODK',
-                href: 'https://www.getodk.org/',
+                label: 'Page GitHub d\'ODK',
+                href: 'https://github.com/getodk',
               }
             ],
           },
