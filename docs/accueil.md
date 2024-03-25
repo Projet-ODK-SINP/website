@@ -4,9 +4,10 @@ sidebar_position: 1
 ---
 ![](./ODK-CEN/fichiers/Suivi_herbiers_Guilhem_LdT_310518_MKlesczewski.JPG)
 :::info Avertissement
-Ce site et le dépot GIT associé sont une initiative de géomaticiens du réseau des Conservatoires d'Espaces Naturels.
-Il fait la promotion d'ODK pour la mise en oeuvre des formulaires présentés et partagés mais est totalement indépendant du projet ODK.
-Les formulaires proposés ici sont mis en oeuvre par des utilisateurs de la solution et en rien par l'équipe de GetODK
+Ce site et son dépôt Git associé sont une initiative de géomaticiens du [réseau des Conservatoires d'Espaces Naturels](https://reseau-cen.org/).
+
+Il promeut ODK pour la mise en œuvre des formulaires qui y sont présentés et partagés mais est totalement indépendant du projet ODK.
+Les formulaires proposés ici sont mis en œuvre par des utilisateurs de la solution et non pas par l'équipe d'ODK.
 :::
 ## Vitrine des formulaires XLSForm mis en œuvre pour la conservation de la nature
 
@@ -19,7 +20,7 @@ Un [modèle](./ODK-CEN/fichiers/template.xlsx) est proposé à cet effet, nous n
 Ces formulaires, les ressources qu'ils utilisent (référentiels, images...) ainsi que les protocoles auxquels ils sont associés seront téléchargeables.
 
 :::info
-les descriptions de formulaires sont en cours de rédaction et nous allons tâcher de les illustrer le mieux possible
+Les descriptions de formulaires sont en cours de rédaction et nous allons tâcher de les illustrer le mieux possible
 :::
 
 
