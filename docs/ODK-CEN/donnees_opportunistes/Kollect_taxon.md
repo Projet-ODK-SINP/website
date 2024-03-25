@@ -11,6 +11,8 @@ tags:
 ---
 # Kollect taxon
 
+La saisie des observations naturalistes pour Kollect
+
 ## Description
 ### Auteur(s)
 Thomas GACHET (CEN Nouvelle-Aquitaine)
