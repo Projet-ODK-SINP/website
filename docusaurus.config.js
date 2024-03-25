@@ -110,7 +110,7 @@ const config = {
             ],
           },*/
           {
-            title: 'le standard XLSForm',
+            title: 'Le standard XLSForm',
             items: [
               {
                 label: 'qu\'est-ce-que c\'est ?',
@@ -119,7 +119,7 @@ const config = {
             ],
           },
           {
-            title: 'la communauté ODK',
+            title: 'La communauté ODK',
             items: [
               {
                 label: 'Website d\'ODK',
