@@ -6,10 +6,7 @@ tags:
   - cartographie
   - inventaire
 ---
-
 # Formulaire PRAM simplifié
-
-
 
 ## Description
 
