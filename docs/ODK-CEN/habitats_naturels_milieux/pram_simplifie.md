@@ -39,8 +39,6 @@ Le CEN Occitanie a mis en place une [fiche de caractérisation des mares](https:
 - Saisie d'observation naturaliste
     - Faune / Flore / Fonge / Habitat
 
-
-
 ## Captures d'écran de démonstration :
 
 ### Écran n°1 : Page d'accueil
@@ -48,9 +46,10 @@ Le CEN Occitanie a mis en place une [fiche de caractérisation des mares](https:
 ![1_accueil](../fichiers/PRAM_simplifie/ecrans/1_accueil.jpg)
 
 ### Écran n°2 : Données générales              
-Vous devez renseigner : le nom de l'utilisateur et l'adresse mail* correspondante, puis sélectionner la date de saisie du formulaire.
+Vous devez renseigner le nom de l'utilisateur et l'adresse mail correspondante, puis sélectionner la date de saisie du formulaire.
 
 ![2_donnees_generales](../fichiers/PRAM_simplifie/ecrans/2_donnees_generales.jpg)
+
 * Attention à l'initialisation automatique de la première lettre tapée, celle-ci doit être en minuscule pour éviter au plus les doublons en base.
 
 ### Écran n°3 : Structure de l'utilisateur
@@ -140,7 +139,6 @@ En fonction du groupe choisi à l'étape précedente, vous devez sélectionner u
 Après cette étape, vous avez le choix de saisir une autre observation, ou de passer l'étape et conclure le formulaire.
 
 
-
 ## Utiliser ce formulaire
 
 ### Licence
@@ -158,15 +156,12 @@ Après cette étape, vous avez le choix de saisir une autre observation, ou de p
 Fiche de caractérisation des mares (version simplifiée) : https://www.pram-occitanie.fr/Fiche-de-caracterisation-de-mare
 Visualisation des données sur l'application cartographique du PRAM Occitanie : https://pram.cen-occitanie.org/#/
 
-
-
 ## Fonctionnalités à venir
 - Ajout d'une liste d'entités pour faciliter la saisie et l'étendre à d'autres formulaires du CEN Occitanie (SICEN)
-
-
 
 ## Traitement des données
 
 ### Scripts SQL
 Script d'alimentation du référentiel régional depuis les nouvelles données saisies via le formulaire : 
+
 [traitements_bdd_formulaire_pram_simplifie.sql](../fichiers/PRAM_simplifie/traitements_bdd_formulaire_pram_simplifie.sql)
