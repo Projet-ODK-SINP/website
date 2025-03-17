@@ -116,7 +116,7 @@ Vous avez la possiblité d'ajouter une observation naturaliste en complément de
 
 ### Écran n°20 : Recherche du nom de l'espèce
 En fonction du groupe choisi à l'étape précedente, vous devez sélectionner un taxon parmi la liste déroulante (une barre de recherche vous aide à filtrer les noms). La liste utilisée est empruntée à Taxref version 16.
-![19_nom_espece](../fichiers/PRAM_simplifie/ecrans/19_nom_espece.png)
+![19_nom_espece](../fichiers/PRAM_simplifie/ecrans/19_nom_espece.jpg)
 
 Après cette étape, vous avez le choix de saisir une autre observation, ou de passer l'étape et conclure le formulaire.
 
