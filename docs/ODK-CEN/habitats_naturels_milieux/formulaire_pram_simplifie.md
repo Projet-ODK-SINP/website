@@ -1,6 +1,6 @@
 ---
-id: PRAM
-title: Plan Régional d'Action sur les Mares d'Occitanie
+id: PRAM_simplifie
+title: Plan Régional d'Action sur les Mares d'Occitanie - formulaire simplifié
 tags:
   - mares
   - cartographie
