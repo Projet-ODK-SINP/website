@@ -1,26 +1,25 @@
 ---
-id: EnregistrementVehicule
-title: Enregistrement d'un nouveau véhicule dans la flotte
+id: EcodiagIAE
+title: Evaluation de l’état de conservation des IAE
 tags:
-  - voiture
-  - kilométrage
-  - voitures de service
-  - matériel
+  - agriculture
+  - agro-écologie
+  - etats de conservation
 ---
 # Enregistrement d'un nouveau véhicule dans la flotte
 
 ## Description
 ### Auteur(s)
-Développé par Mathieu Bossaert, CEN Occitanie
+Développé par Nathalie Hiessler, CEN Occitanie dans le carde du LIFE Buiodiv'Paysanne
 ### Objectif
-Permet de gérer le parc de véhicules sous la forme d'entités dans ODK.
+Evaluer l'état de conservation des IAE d'une exploitation et d'établir un diagnostic
 ## Présentation détaillée
 ### Logique de collecte
-* site de rattachement
-* numero d'ordre du véhicule dans le site
-* immatriculation
-* date d'entrée dans le parc
-* le véhicule est-il mobilisable
+* dessin de l'IAE
+* Saisie des valeur brutes pour les indcateurs de 
+  * structure
+  * composition
+  * dégradation
 
 ### Captures d'écrans et/ou vidéo de démonstration
 
@@ -28,7 +27,7 @@ Permet de gérer le parc de véhicules sous la forme d'entités dans ODK.
 ### Licence
 [![CC-BY](../fichiers/by.png)](https://creativecommons.org/licenses/by/2.0/fr/)
 ### XLSform
-[xlsform](../fichiers/vehicules_service/enregistrement_vehicule.xlsx)
+[xlsform](../fichiers/ecodiag_iae/Ecodiag_IAE.xlsx)
 ### Données externes et médias associés
 -> liens vers les ressources
 
