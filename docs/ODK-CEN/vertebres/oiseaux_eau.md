@@ -11,14 +11,12 @@ tags:
 ### Auteur(s)
 Formulaire développé par Nathalie Hiessler (Cen Occitanie) 
 ### Objectif
-`
-l’herpétofaune française à partir de l’estimation de l’occurrence des communautés
-d’amphibiens dans les sites aquatiques.
-```
+
 #### Protocole mis en œuvre
 * [Protocole](../fichiers/POPAmhibienCommunaute/Protocole_POPAmphibien_Communaute_2022.pdf)
 ## Présentation détaillée
 ### Logique de collecte
+
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'mainBranchName': 'Submissions','rotateCommitLabel': true}} }%%
 gitGraph
