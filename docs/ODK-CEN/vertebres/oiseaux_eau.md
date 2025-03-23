@@ -19,6 +19,30 @@ d’amphibiens dans les sites aquatiques.
 * [Protocole](../fichiers/POPAmhibienCommunaute/Protocole_POPAmphibien_Communaute_2022.pdf)
 ## Présentation détaillée
 ### Logique de collecte
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'mainBranchName': 'Submissions','rotateCommitLabel': true}} }%%
+gitGraph
+	commit id: "username"
+    commit id: "Projet"
+    commit id: "Conditions météo"
+	commit id: "date et heure de début"
+	commit id: "Secteur/site de suivi" type: HIGHLIGHT tag: "Boucle secteur"
+	branch places
+	checkout places
+	commit id: "Saisie espèces" type: HIGHLIGHT tag: "Boucle observation"
+	branch obs
+	checkout obs
+	commit id: "Espèce"
+	commit id: "Type de contact"
+    commit id: "Type d'effectif"
+    commit id: "Effectif"
+	checkout places
+	merge obs
+	checkout Submissions
+	merge places
+	commit id: "Heure de fin"
+	commit id: "Remarque"
+```
 #### 1- Information générales
 * **Utilisateur:** courriel et nom de l'observateur, automatisable dans les paramètres d'ODK Collect sur le téléphone
 * **Identifiant du projet :** code interne à la structure
