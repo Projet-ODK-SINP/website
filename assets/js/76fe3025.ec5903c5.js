@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkodksinp_website=self.webpackChunkodksinp_website||[]).push([[5402],{5257:e=>{e.exports=JSON.parse('{"label":"oiseaux","permalink":"/docs/tags/oiseaux","allTagsPath":"/docs/tags","count":1,"items":[{"id":"ODK-CEN/vertebres/oiseaux_eau","title":"Oiseaux d\'eau","description":"Description","permalink":"/docs/ODK-CEN/vertebres/oiseaux_eau"}]}')}}]);
