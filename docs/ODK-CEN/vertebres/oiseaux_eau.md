@@ -17,7 +17,7 @@ Formulaire développé par Nathalie Hiessler (Cen Occitanie)
 ## Présentation détaillée
 ### Logique de collecte
 
-[logique](../fichiers/oiseaux_eau/oiseaux_eau_diagramme.png)
+![logique](../fichiers/oiseaux_eau/oiseaux_eau_diagramme.png)
 
 #### 1- Information générales
 * **Utilisateur:** courriel et nom de l'observateur, automatisable dans les paramètres d'ODK Collect sur le téléphone
