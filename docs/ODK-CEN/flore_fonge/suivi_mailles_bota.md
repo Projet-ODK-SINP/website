@@ -1,12 +1,12 @@
 ---
 id: SuiviMailles
-title: Inventaire exhaustif de taxons de flore par maille carrée
+title: Suivi mailles bota : Inventaire exhaustif de taxons de flore par maille carrée
 tags:
   - inventaire exhaustif
   - maillage
   - flore
 ---
-# Inventaire exhaustif par maille carrée
+# Suivi mailles bota : Inventaire exhaustif par maille carrée
 
 ## Description
 Parcours exhaustif d'un site (mailles carrées) et suivi de l'abondance des espèces cibles sur chacune d'entre elles.
