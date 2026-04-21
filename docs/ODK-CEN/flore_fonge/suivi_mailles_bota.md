@@ -21,8 +21,7 @@ Suivre de manière exhaustive (spatialement) l'abondance (A, B, C, D et E) d'une
 ### Captures d'écrans et/ou vidéo de démonstration
 
 La taille de la maille carrée ainsi que la liste d'espèces sont définies en amont.
-Le fichier "**mbtile**" contenant le fond de carte de votre site doit être placé dans le dossier suivant :
-> /Android/data/org.odk.collect.android/files/layers
+
 #### Paramétrage
 ##### Premier lancement d'ODK
 -> Scanner le QRCode du projet en cliquant sur le bouton "_Configurer par QRCode_"
@@ -87,7 +86,7 @@ Si vous avez correctement configuré les métadonnées du projet (cf plus haut) 
 
 ![14_localisation_automatique](../fichiers/suivis_mailles_bota/ecrans/14_localisation_automatique.png)
 
-
+> /!\ Depuis 2025, il est possible de choisir la maille dans laquelle on se trouve en choisissant la méthode "mailles cliquables". Les mailles sont à ahuter en amont dans le fichier [mailles_4326.geojson](../fichiers/suivis_mailles_bota/mailles_4326.geojson.zip). Le fichier xlsform présenté plus bas propose cette fonctionnalité.
 ##### Afficher votre fond de carte (en lieu et place de celui par défaut
 1. Cliquer sur l’icône représentant les couches
 2. Choisissez votre fond de carte
