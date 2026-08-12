@@ -6,23 +6,14 @@ tags:
   - cartographie
   - inventaire
 ---
-
-
 # Formulaire PRAM Occitanie (Programme Régional d'Actions Mares Occitanie)
-
 ## Description
-
 ### Développé et maintenu par
 Maxime OLIVO - CEN Occitanie
-
 ### Objectif
 Dans le cadre du Programme Régional d'Actions Mares Occitanie, le CEN Occitanie a mis en place des outils de saisie et de suivi des mares d’Occitanie. Ce formulaire permet de saisir des fiches descriptives de mares en mode simplifié ou complet. Le mode complet permet de renseigner des informations sur les caractéristiques physico-chimiques de la mare, ainsi que ses préconisations de gestion par exemple.
-
 Lien vers l'application cartographique du programme : [pram.cen-occitanie.org](https://pram.cen-occitanie.org/#/)
 
-&nbsp;
-
--------------------------------------------------------------
 ## Logique de collecte
 
 - Données générales : identité, mail et structure de l'utilisateur
@@ -35,9 +26,7 @@ Lien vers l'application cartographique du programme : [pram.cen-occitanie.org](h
 - Photographie(s) de la mare
 - Observations naturalistes (faune, flore, fonge, habitat)
 
-&nbsp;
 
--------------------------------------------------------------
 ## Présentation détaillée
 
 
@@ -294,7 +283,7 @@ Par exemple, si vous sélectionnez *Animal*, vous serez redirigé vers la liste 
 
 ![faune](../fichiers/PRAM/ecrans/32a_faune.png)
 
-&nbsp;
+
 
 -----------------------------
 
@@ -311,9 +300,6 @@ Scanner le QR code pour accéder au formulaire
 ### XLSform
 -> lien vers le fichier
 
-&nbsp;
-
------------------------------
 
 ## Ressources associées
 
