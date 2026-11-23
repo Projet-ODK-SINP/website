@@ -150,6 +150,11 @@ Le fichier xlsform présenté plus bas propose cette fonctionnalité.
 ## Fonctionnalités de XLSForm mises en œuvre
 ### Discussion en ligne sur le forum d'ODK
 
+Une demande de fonctionnalité relative à l'affichage simplifié des mailles déjà visitées
+
+https://forum.getodk.org/t/display-existing-previously-selected-geometries-in-a-select-question-with-map-appearence/58748
+
+
 ## Traitement des données
 ### Scripts SQL
 ```sql
@@ -231,7 +236,6 @@ Le fichier xlsform présenté plus bas propose cette fonctionnalité.
 
 ### Scripts R
 ### Autres
+#### Exemple de restitution cartographique
 
-Une carte de restitution :
-
-![carte_de_restitution_ononis_mitissima_salines](../fichiers/suivis_mailles_bota/ecrans/carte_ononis_salines_2026.png)
+![carte_de_restitution_ononis_mitissima_salines](../fichiers/suivis_mailles_bota/carte_ononis_salines_2026.png)
