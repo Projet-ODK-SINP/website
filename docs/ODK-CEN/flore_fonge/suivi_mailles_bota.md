@@ -98,7 +98,9 @@ Les mailles sont à créer en amont dans le fichier [mailles_4326.geojson](../fi
 Le fichier xlsform présenté plus bas propose cette fonctionnalité.
 
 ##### Méthode de pointage sur image de fond présentant les grilles
+
 -> Afficher votre fond de carte (en lieu et place de celui par défaut)
+
 1. Cliquer sur l’icône représentant les couches
 2. Choisissez votre fond de carte
 
@@ -115,19 +117,22 @@ Le fichier xlsform présenté plus bas propose cette fonctionnalité.
 ##### Méthode de pointage sur grille cliquable
 -> Selectionnez la maille dans laquelle vous place le GPS
 ![choix_maille](../fichiers/suivis_mailles_bota/ecrans/sel_maille.png)
+
 ![choix_maille](../fichiers/suivis_mailles_bota/ecrans/choix_maille.png)
 
 
 ##### Renseignement de l'abondance de la ou des espèces (selon les sites)
 
 ![renseignement_effectifs_especes_1](../fichiers/suivis_mailles_bota/ecrans/liste_sp1.png)
+
 ![renseignement_effectifs_especes_2](../fichiers/suivis_mailles_bota/ecrans/liste_sp2.png)
 
 
 ##### Ajouter une nouvelle maille / localité ou terminer le formulaire
 
 ![19_nouvelle_maille_ou_fin_de_session](../fichiers/suivis_mailles_bota/ecrans/19_nouvelle_maille_ou_fin_de_session.png)
-![progression](../fichiers/suivis_mailles_bota/ecrans/19_nouvelle_maille_ou_fin_de_session.png)
+
+![progression](../fichiers/suivis_mailles_bota/ecrans/progression.png)
 
 ![20_fin_de_session](../fichiers/suivis_mailles_bota/ecrans/20_fin_de_session.png)
 
