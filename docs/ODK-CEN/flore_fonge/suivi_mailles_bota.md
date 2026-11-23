@@ -231,3 +231,7 @@ Le fichier xlsform présenté plus bas propose cette fonctionnalité.
 
 ### Scripts R
 ### Autres
+
+Une carte de restitution :
+
+![carte_de_restitution_ononis_mitissima_salines](../fichiers/suivis_mailles_bota/ecrans/carte_ononis_salines_2026.png)
