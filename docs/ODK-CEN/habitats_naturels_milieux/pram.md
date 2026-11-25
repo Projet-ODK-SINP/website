@@ -22,6 +22,12 @@ Lien vers l'application cartographique du programme : [pram.cen-occitanie.org](h
 
 &nbsp;
 
+### Modèle des données
+
+Les données saisies dans le formulaire alimentent la base de données PostgreSQL du PRAM Occitanie. Cette base est reliée à une application web, développé par le CEN Grand Est, et accessible au grand public.
+
+![bdd](../fichiers/PRAM/bdd_pram.jpg)
+
 -------------------------------------------------------------
 ## Logique de collecte
 
