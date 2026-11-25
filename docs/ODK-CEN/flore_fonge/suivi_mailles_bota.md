@@ -79,6 +79,12 @@ Si vous avez correctement configuré les métadonnées du projet (cf plus haut) 
 
 ![12_choix_du_protocole](../fichiers/suivis_mailles_bota/ecrans/12_choix_du_protocole.png)
 
+##### Choix de la méthode de cartographie
+Soit vous utilisez un fond statiques (les mailles sont dessinées sur le fond de carte en amont) et vous créez alors des points au dessus de ce fonds de carte,
+soit vous utilisez un référentiel de mailles cliquables.
+
+![13_localisation](../fichiers/suivis_mailles_bota/ecrans/choix_methode.png)
+
 ##### Démarrer la localisation
 
 ![13_localisation](../fichiers/suivis_mailles_bota/ecrans/13_localisation.png)
@@ -87,34 +93,51 @@ Si vous avez correctement configuré les métadonnées du projet (cf plus haut) 
 
 ![14_localisation_automatique](../fichiers/suivis_mailles_bota/ecrans/14_localisation_automatique.png)
 
-> /!\ Depuis 2025, il est possible de choisir la maille dans laquelle on se trouve en choisissant la méthode "mailles cliquables". Les mailles sont à ahuter en amont dans le fichier [mailles_4326.geojson](../fichiers/suivis_mailles_bota/mailles_4326.geojson.zip). Le fichier xlsform présenté plus bas propose cette fonctionnalité.
-##### Afficher votre fond de carte (en lieu et place de celui par défaut
+> /!\ Depuis 2025, il est possible de choisir la maille dans laquelle on se trouve en choisissant la méthode "mailles cliquables".
+Les mailles sont à créer en amont dans le fichier [mailles_4326.geojson](../fichiers/suivis_mailles_bota/mailles_4326.geojson.zip).
+Le fichier xlsform présenté plus bas propose cette fonctionnalité.
+
+##### Méthode de pointage sur image de fond présentant les grilles
+
+-> Afficher votre fond de carte (en lieu et place de celui par défaut)
+
 1. Cliquer sur l’icône représentant les couches
 2. Choisissez votre fond de carte
 
 ![15_choix_du_fond_de_carte_personalise](../fichiers/suivis_mailles_bota/ecrans/15_choix_du_fond_de_carte_personalise.png)
 
+3. Créez votre point
+
 ![16_creation_du_point](../fichiers/suivis_mailles_bota/ecrans/16_creation_du_point.png)
 
-3. Valider la localité
+4. Valider la localité
 
 ![17_detail_point_cree](../fichiers/suivis_mailles_bota/ecrans/17_detail_point_cree.png)
+
+##### Méthode de pointage sur grille cliquable
+-> Selectionnez la maille dans laquelle vous place le GPS
+![choix_maille](../fichiers/suivis_mailles_bota/ecrans/sel_maille.png)
+
+![choix_maille](../fichiers/suivis_mailles_bota/ecrans/choix_maille.png)
 
 
 ##### Renseignement de l'abondance de la ou des espèces (selon les sites)
 
-![18_renseignement_effectifs_especes](../fichiers/suivis_mailles_bota/ecrans/18_renseignement_effectifs_especes.png)
+![renseignement_effectifs_especes_1](../fichiers/suivis_mailles_bota/ecrans/liste_sp1.png)
+
+![renseignement_effectifs_especes_2](../fichiers/suivis_mailles_bota/ecrans/liste_sp2.png)
 
 
 ##### Ajouter une nouvelle maille / localité ou terminer le formulaire
 
 ![19_nouvelle_maille_ou_fin_de_session](../fichiers/suivis_mailles_bota/ecrans/19_nouvelle_maille_ou_fin_de_session.png)
 
+![progression](../fichiers/suivis_mailles_bota/ecrans/progression.png)
+
 ![20_fin_de_session](../fichiers/suivis_mailles_bota/ecrans/20_fin_de_session.png)
 
 ### Perspectives
-* Disposer d'un formulaire plus générique ne générant pas autant de quesions que d'espèces suivies, pour faciliter le traitement des données collectées.
-* Utiliser l'apparence **map** pour afficher et sélectionner les mailles sur la carte, et faciliter la navigation sur le site, comme on le fait dans le suivi des herbiers.
+* Disposer d'un formulaire plus générique ne générant pas autant de questions que d'espèces suivies, pour la forme en base de données.
 
 ## Utiliser ce formulaire
 ### Licence
@@ -127,7 +150,92 @@ Si vous avez correctement configuré les métadonnées du projet (cf plus haut) 
 ## Fonctionnalités de XLSForm mises en œuvre
 ### Discussion en ligne sur le forum d'ODK
 
+Une demande de fonctionnalité relative à l'affichage simplifié des mailles déjà visitées
+
+https://forum.getodk.org/t/display-existing-previously-selected-geometries-in-a-select-question-with-map-appearence/58748
+
+
 ## Traitement des données
 ### Scripts SQL
+```sql
+ WITH mailles_espece_possibles AS (
+         SELECT DISTINCT mailles.gid,
+            taxref.nom_valide,
+            taxref.cd_ref,
+            mailles.geometrie AS geom
+           FROM inpn.mailles_20m mailles
+             JOIN inpn.taxref ON true
+             JOIN inpn.perimetre_etude_pour_creation_grille site ON st_intersects(site.geometrie, mailles.geometrie)
+          WHERE (site.id_perim = ANY (ARRAY[88, 260])) AND (taxref.cd_ref = ANY (ARRAY['110207'::text]))
+        ), obs_ref AS (
+         SELECT mailles.gid,
+            taxref.cd_ref,
+            COALESCE(date_part('year'::text, saisie_observation.date_obs)::text, "right"(saisie_observation.date_text::text, 4))::integer AS annee_obs,
+            upper(COALESCE(
+                CASE
+                    WHEN saisie_observation.effectif < 11 THEN 'A'::text
+                    WHEN saisie_observation.effectif < 51 THEN 'B1'::text
+                    WHEN saisie_observation.effectif < 101 THEN 'B2'::text
+                    WHEN saisie_observation.effectif < 1001 THEN 'C'::text
+                    WHEN saisie_observation.effectif > 1000 THEN 'D'::text
+                    ELSE NULL::text
+                END,
+                CASE
+                    WHEN saisie_observation.type_eff ~~* 'pr%'::text THEN 'A'::text
+                    WHEN saisie_observation.eff_text ~~* 'pr%'::text THEN 'A'::text
+                    ELSE split_part(saisie_observation.eff_text, ';'::text, 1)
+                END, 'A'::text)) AS effectif_textuel,
+            saisie_observation.protocole,
+            saisie_observation.remarque
+           FROM export.tous_point_espece_format_esri saisie_observation
+             JOIN inpn.taxref ON saisie_observation.cd_ref::text = taxref.cd_nom
+             JOIN inpn.perimetre_etude_pour_creation_grille site ON st_intersects(site.geometrie, saisie_observation.geometrie)
+             JOIN inpn.mailles_20m mailles ON st_intersects(mailles.geometrie, saisie_observation.geometrie)
+          WHERE (site.id_perim = ANY (ARRAY[88, 260])) AND (taxref.cd_ref = ANY (ARRAY['110207'::text])) AND saisie_observation.protocole ~~* '%maille%'::text
+          ORDER BY (COALESCE(date_part('year'::text, saisie_observation.date_obs)::text, "right"(saisie_observation.date_text::text, 4))::integer)
+        )
+ SELECT row_number() OVER () AS gid,
+    EXTRACT(year FROM now()) AS annee_ref,
+    mailles_espece_possibles.nom_valide,
+    mailles_espece_possibles.cd_ref,
+    st_x(st_transform(st_centroid(mailles_espece_possibles.geom), 4326)) AS lon,
+    st_y(st_transform(st_centroid(mailles_espece_possibles.geom), 4326)) AS lat,
+    st_centroid(mailles_espece_possibles.geom) AS centroid,
+    mailles_espece_possibles.geom AS geometrie,
+    COALESCE(max(obs_ref.effectif_textuel) FILTER (WHERE obs_ref.annee_obs::double precision < EXTRACT(year FROM now())::double precision), 'absence'::text) AS "avant année de référence",
+        CASE COALESCE(max(obs_ref.effectif_textuel) FILTER (WHERE obs_ref.annee_obs::double precision < EXTRACT(year FROM now())::double precision), 'absence'::text)
+            WHEN 'A'::text THEN 1
+            WHEN 'B'::text THEN 11
+            WHEN 'B1'::text THEN 11
+            WHEN 'B2'::text THEN 51
+            WHEN 'C'::text THEN 101
+            WHEN 'D'::text THEN 1001
+            ELSE 0
+        END AS "effectif avant année de référence",
+    COALESCE(max(obs_ref.effectif_textuel) FILTER (WHERE obs_ref.annee_obs::double precision = EXTRACT(year FROM now())::double precision), 'absence'::text) AS "durant année de référence",
+        CASE COALESCE(max(obs_ref.effectif_textuel) FILTER (WHERE obs_ref.annee_obs::double precision >= EXTRACT(year FROM now())::double precision), 'absence'::text)
+            WHEN 'A'::text THEN 1
+            WHEN 'B'::text THEN 11
+            WHEN 'B1'::text THEN 11
+            WHEN 'B2'::text THEN 51
+            WHEN 'C'::text THEN 101
+            WHEN 'D'::text THEN 1001
+            ELSE 0
+        END AS "effectif à partir de extract(YEAR FROM now())",
+        CASE
+            WHEN upper(max(obs_ref.effectif_textuel) FILTER (WHERE obs_ref.annee_obs::double precision < EXTRACT(year FROM now())::double precision)) IS NULL AND upper(max(obs_ref.effectif_textuel) FILTER (WHERE obs_ref.annee_obs::double precision >= EXTRACT(year FROM now())::double precision)) IS NOT NULL THEN 'apparition'::text
+            WHEN upper(max(obs_ref.effectif_textuel) FILTER (WHERE obs_ref.annee_obs::double precision < EXTRACT(year FROM now())::double precision)) IS NOT NULL AND upper(max(obs_ref.effectif_textuel) FILTER (WHERE obs_ref.annee_obs::double precision >= EXTRACT(year FROM now())::double precision)) IS NULL THEN 'disparition'::text
+            WHEN upper(max(obs_ref.effectif_textuel) FILTER (WHERE obs_ref.annee_obs::double precision < EXTRACT(year FROM now())::double precision)) IS NULL AND upper(max(obs_ref.effectif_textuel) FILTER (WHERE obs_ref.annee_obs::double precision >= EXTRACT(year FROM now())::double precision)) IS NULL THEN 'absence répétée'::text
+            WHEN COALESCE(upper(max(obs_ref.effectif_textuel) FILTER (WHERE obs_ref.annee_obs::double precision < EXTRACT(year FROM now())::double precision)), '0'::text) > COALESCE(upper(max(obs_ref.effectif_textuel) FILTER (WHERE obs_ref.annee_obs::double precision >= EXTRACT(year FROM now())::double precision)), '0'::text) THEN 'maintien/diminution'::text
+            ELSE 'maintien/augmentation'::text
+        END AS evolution
+   FROM mailles_espece_possibles
+     JOIN obs_ref USING (gid, cd_ref)
+  GROUP BY mailles_espece_possibles.gid, mailles_espece_possibles.nom_valide, mailles_espece_possibles.cd_ref, mailles_espece_possibles.geom
+```
+
 ### Scripts R
 ### Autres
+#### Exemple de restitution cartographique
+
+![carte_de_restitution_ononis_mitissima_salines](../fichiers/suivis_mailles_bota/carte_ononis_salines_2026.png)
